@@ -1,0 +1,642 @@
+E:\Codes Thesis\Final Code\Kinect_Control_Robot\Kinect_Control_USBDevice\Kinect_Control_USBDevice\obj\Debug\MainWindow.baml
+E:\Codes Thesis\Final Code\Kinect_Control_Robot\Kinect_Control_USBDevice\Kinect_Control_USBDevice\obj\Debug\MainWindow.g.cs
+E:\Codes Thesis\Final Code\Kinect_Control_Robot\Kinect_Control_USBDevice\Kinect_Control_USBDevice\obj\Debug\App.g.cs
+E:\Codes Thesis\Final Code\Kinect_Control_Robot\Kinect_Control_USBDevice\Kinect_Control_USBDevice\obj\Debug\Kinect_Control_USBDevice_MarkupCompile.cache
+E:\Codes Thesis\Final Code\Kinect_Control_Robot\Kinect_Control_USBDevice\Kinect_Control_USBDevice\obj\Debug\Kinect_Control_USBDevice.g.resources
+E:\Codes Thesis\Final Code\Kinect_Control_Robot\Kinect_Control_USBDevice\Kinect_Control_USBDevice\obj\Debug\Kinect_Control_USBDevice.Properties.Resources.resources
+E:\Codes Thesis\Final Code\Kinect_Control_Robot\Kinect_Control_USBDevice\Kinect_Control_USBDevice\obj\Debug\Kinect_Control_USBDevice.csproj.GenerateResource.Cache
+E:\Codes Thesis\Final Code\Kinect_Control_Robot\Kinect_Control_USBDevice\Kinect_Control_USBDevice\bin\Debug\Kinect_Control_USBDevice.exe.config
+E:\Codes Thesis\Final Code\Kinect_Control_Robot\Kinect_Control_USBDevice\Kinect_Control_USBDevice\bin\Debug\Kinect_Control_USBDevice.exe
+E:\Codes Thesis\Final Code\Kinect_Control_Robot\Kinect_Control_USBDevice\Kinect_Control_USBDevice\bin\Debug\Kinect_Control_USBDevice.pdb
+E:\Codes Thesis\Final Code\Kinect_Control_Robot\Kinect_Control_USBDevice\Kinect_Control_USBDevice\bin\Debug\usbGenericHidCommunications.dll
+E:\Codes Thesis\Final Code\Kinect_Control_Robot\Kinect_Control_USBDevice\Kinect_Control_USBDevice\bin\Debug\usbGenericHidCommunications.pdb
+E:\Codes Thesis\Final Code\Kinect_Control_Robot\Kinect_Control_USBDevice\Kinect_Control_USBDevice\obj\Debug\Kinect_Control_USBDevice.csprojResolveAssemblyReference.cache
+E:\Codes Thesis\Final Code\Kinect_Control_Robot\Kinect_Control_USBDevice\Kinect_Control_USBDevice\obj\Debug\Kinect_Control_USBDevice.exe
+E:\Codes Thesis\Final Code\Kinect_Control_Robot\Kinect_Control_USBDevice\Kinect_Control_USBDevice\obj\Debug\Kinect_Control_USBDevice.pdb
+E:\MyProject\Kinect_Control_Robot\Kinect_Control_USBDevice\Kinect_Control_USBDevice\bin\Debug\Kinect_Control_USBDevice.exe.config
+E:\MyProject\Kinect_Control_Robot\Kinect_Control_USBDevice\Kinect_Control_USBDevice\obj\Debug\Kinect_Control_USBDevice.exe
+E:\MyProject\Kinect_Control_Robot\Kinect_Control_USBDevice\Kinect_Control_USBDevice\obj\Debug\Kinect_Control_USBDevice.pdb
+E:\MyProject\Kinect_Control_Robot\Kinect_Control_USBDevice\Kinect_Control_USBDevice\bin\Debug\Kinect_Control_USBDevice.exe
+E:\MyProject\Kinect_Control_Robot\Kinect_Control_USBDevice\Kinect_Control_USBDevice\bin\Debug\Kinect_Control_USBDevice.pdb
+E:\MyProject\Kinect_Control_Robot\Kinect_Control_USBDevice\Kinect_Control_USBDevice\bin\Debug\usbGenericHidCommunications.dll
+E:\MyProject\Kinect_Control_Robot\Kinect_Control_USBDevice\Kinect_Control_USBDevice\bin\Debug\usbGenericHidCommunications.pdb
+E:\MyProject\Kinect_Control_Robot\Kinect_Control_USBDevice\Kinect_Control_USBDevice\obj\Debug\Kinect_Control_USBDevice.csprojResolveAssemblyReference.cache
+E:\MyProject\Kinect_Control_Robot\Kinect_Control_USBDevice\Kinect_Control_USBDevice\obj\Debug\MainWindow.baml
+E:\MyProject\Kinect_Control_Robot\Kinect_Control_USBDevice\Kinect_Control_USBDevice\obj\Debug\MainWindow.g.cs
+E:\MyProject\Kinect_Control_Robot\Kinect_Control_USBDevice\Kinect_Control_USBDevice\obj\Debug\App.g.cs
+E:\MyProject\Kinect_Control_Robot\Kinect_Control_USBDevice\Kinect_Control_USBDevice\obj\Debug\Kinect_Control_USBDevice_MarkupCompile.cache
+E:\MyProject\Kinect_Control_Robot\Kinect_Control_USBDevice\Kinect_Control_USBDevice\obj\Debug\Kinect_Control_USBDevice.g.resources
+E:\MyProject\Kinect_Control_Robot\Kinect_Control_USBDevice\Kinect_Control_USBDevice\obj\Debug\Kinect_Control_USBDevice.Properties.Resources.resources
+E:\MyProject\Kinect_Control_Robot\Kinect_Control_USBDevice\Kinect_Control_USBDevice\obj\Debug\Kinect_Control_USBDevice.csproj.GenerateResource.Cache
+E:\Codes Thesis\Kinect_Control_Robot\Kinect_Control_USBDevice\Kinect_Control_USBDevice\bin\Debug\Kinect_Control_USBDevice.exe.config
+E:\Codes Thesis\Kinect_Control_Robot\Kinect_Control_USBDevice\Kinect_Control_USBDevice\obj\Debug\Kinect_Control_USBDevice.exe
+E:\Codes Thesis\Kinect_Control_Robot\Kinect_Control_USBDevice\Kinect_Control_USBDevice\obj\Debug\Kinect_Control_USBDevice.pdb
+E:\Codes Thesis\Final Code\Kinect_Control_Robot\Kinect_Control_USBDevice\Kinect_Control_USBDevice\bin\Debug\Kinect.Toolbox.dll
+E:\Codes Thesis\Final Code\Kinect_Control_Robot\Kinect_Control_USBDevice\Kinect_Control_USBDevice\bin\Debug\Kinect.Toolbox.Voice.dll
+E:\Codes Thesis\Final Code\Kinect_Control_Robot\Kinect_Control_USBDevice\Kinect_Control_USBDevice\bin\Debug\Microsoft.Xna.Framework.dll
+E:\Codes Thesis\Final Code\Kinect_Control_Robot\Kinect_Control_USBDevice\Kinect_Control_USBDevice\bin\Debug\SharpDX.dll
+E:\DOCUMENT AT HCMUT\NGHIEN CUU KHOA HOC\Kinect_Control_USBDeviceguiquan\Kinect_Control_USBDevice\Kinect_Control_USBDevice\bin\Debug\Kinect_Control_USBDevice.exe.config
+E:\DOCUMENT AT HCMUT\NGHIEN CUU KHOA HOC\Kinect_Control_USBDeviceguiquan\Kinect_Control_USBDevice\Kinect_Control_USBDevice\obj\Debug\Kinect_Control_USBDevice.exe
+E:\DOCUMENT AT HCMUT\NGHIEN CUU KHOA HOC\Kinect_Control_USBDeviceguiquan\Kinect_Control_USBDevice\Kinect_Control_USBDevice\obj\Debug\Kinect_Control_USBDevice.pdb
+E:\DOCUMENT AT HCMUT\NGHIEN CUU KHOA HOC\Kinect_Control_USBDeviceguiquan\Kinect_Control_USBDevice\Kinect_Control_USBDevice\bin\Debug\Kinect_Control_USBDevice.exe
+E:\DOCUMENT AT HCMUT\NGHIEN CUU KHOA HOC\Kinect_Control_USBDeviceguiquan\Kinect_Control_USBDevice\Kinect_Control_USBDevice\bin\Debug\Kinect_Control_USBDevice.pdb
+E:\DOCUMENT AT HCMUT\NGHIEN CUU KHOA HOC\Kinect_Control_USBDeviceguiquan\Kinect_Control_USBDevice\Kinect_Control_USBDevice\bin\Debug\Kinect.Toolbox.dll
+E:\DOCUMENT AT HCMUT\NGHIEN CUU KHOA HOC\Kinect_Control_USBDeviceguiquan\Kinect_Control_USBDevice\Kinect_Control_USBDevice\bin\Debug\Microsoft.Xna.Framework.dll
+E:\DOCUMENT AT HCMUT\NGHIEN CUU KHOA HOC\Kinect_Control_USBDeviceguiquan\Kinect_Control_USBDevice\Kinect_Control_USBDevice\bin\Debug\SharpDX.dll
+E:\DOCUMENT AT HCMUT\NGHIEN CUU KHOA HOC\Kinect_Control_USBDeviceguiquan\Kinect_Control_USBDevice\Kinect_Control_USBDevice\bin\Debug\usbGenericHidCommunications.dll
+E:\DOCUMENT AT HCMUT\NGHIEN CUU KHOA HOC\Kinect_Control_USBDeviceguiquan\Kinect_Control_USBDevice\Kinect_Control_USBDevice\bin\Debug\usbGenericHidCommunications.pdb
+E:\DOCUMENT AT HCMUT\NGHIEN CUU KHOA HOC\Kinect_Control_USBDeviceguiquan\Kinect_Control_USBDevice\Kinect_Control_USBDevice\obj\Debug\Kinect_Control_USBDevice.csprojResolveAssemblyReference.cache
+E:\DOCUMENT AT HCMUT\NGHIEN CUU KHOA HOC\Kinect_Control_USBDeviceguiquan\Kinect_Control_USBDevice\Kinect_Control_USBDevice\obj\Debug\MainWindow.baml
+E:\DOCUMENT AT HCMUT\NGHIEN CUU KHOA HOC\Kinect_Control_USBDeviceguiquan\Kinect_Control_USBDevice\Kinect_Control_USBDevice\obj\Debug\MainWindow.g.cs
+E:\DOCUMENT AT HCMUT\NGHIEN CUU KHOA HOC\Kinect_Control_USBDeviceguiquan\Kinect_Control_USBDevice\Kinect_Control_USBDevice\obj\Debug\App.g.cs
+E:\DOCUMENT AT HCMUT\NGHIEN CUU KHOA HOC\Kinect_Control_USBDeviceguiquan\Kinect_Control_USBDevice\Kinect_Control_USBDevice\obj\Debug\Kinect_Control_USBDevice_MarkupCompile.cache
+E:\DOCUMENT AT HCMUT\NGHIEN CUU KHOA HOC\Kinect_Control_USBDeviceguiquan\Kinect_Control_USBDevice\Kinect_Control_USBDevice\obj\Debug\Kinect_Control_USBDevice.g.resources
+E:\DOCUMENT AT HCMUT\NGHIEN CUU KHOA HOC\Kinect_Control_USBDeviceguiquan\Kinect_Control_USBDevice\Kinect_Control_USBDevice\obj\Debug\Kinect_Control_USBDevice.Properties.Resources.resources
+E:\DOCUMENT AT HCMUT\NGHIEN CUU KHOA HOC\Kinect_Control_USBDeviceguiquan\Kinect_Control_USBDevice\Kinect_Control_USBDevice\obj\Debug\Kinect_Control_USBDevice.csproj.GenerateResource.Cache
+E:\Codes Thesis\Kinect_Control_USBDeviceguiquan\Kinect_Control_USBDevice\Kinect_Control_USBDevice\bin\Debug\Kinect_Control_USBDevice.exe.config
+E:\Codes Thesis\Kinect_Control_USBDeviceguiquan\Kinect_Control_USBDevice\Kinect_Control_USBDevice\obj\Debug\Kinect_Control_USBDevice.exe
+E:\Codes Thesis\Kinect_Control_USBDeviceguiquan\Kinect_Control_USBDevice\Kinect_Control_USBDevice\obj\Debug\Kinect_Control_USBDevice.pdb
+E:\Codes Thesis\Kinect_Control_USBDeviceguiquan\Kinect_Control_USBDevice\Kinect_Control_USBDevice\obj\Debug\Kinect_Control_USBDevice.csprojResolveAssemblyReference.cache
+E:\Codes Thesis\Kinect_Control_USBDeviceguiquan\Kinect_Control_USBDevice\Kinect_Control_USBDevice\obj\Debug\MainWindow.baml
+E:\Codes Thesis\Kinect_Control_USBDeviceguiquan\Kinect_Control_USBDevice\Kinect_Control_USBDevice\obj\Debug\MainWindow.g.cs
+E:\Codes Thesis\Kinect_Control_USBDeviceguiquan\Kinect_Control_USBDevice\Kinect_Control_USBDevice\obj\Debug\App.g.cs
+E:\Codes Thesis\Kinect_Control_USBDeviceguiquan\Kinect_Control_USBDevice\Kinect_Control_USBDevice\obj\Debug\Kinect_Control_USBDevice_MarkupCompile.cache
+E:\Codes Thesis\Kinect_Control_USBDeviceguiquan\Kinect_Control_USBDevice\Kinect_Control_USBDevice\obj\Debug\Kinect_Control_USBDevice.g.resources
+E:\Codes Thesis\Kinect_Control_USBDeviceguiquan\Kinect_Control_USBDevice\Kinect_Control_USBDevice\obj\Debug\Kinect_Control_USBDevice.Properties.Resources.resources
+E:\Codes Thesis\Kinect_Control_USBDeviceguiquan\Kinect_Control_USBDevice\Kinect_Control_USBDevice\obj\Debug\Kinect_Control_USBDevice.csproj.GenerateResource.Cache
+E:\Codes Thesis\Kinect_Control_USBDeviceguiquan\Kinect_Control_USBDevice\Kinect_Control_USBDevice\bin\Debug\Kinect_Control_USBDevice.exe
+E:\Codes Thesis\Kinect_Control_USBDeviceguiquan\Kinect_Control_USBDevice\Kinect_Control_USBDevice\bin\Debug\Kinect_Control_USBDevice.pdb
+E:\Codes Thesis\Kinect_Control_USBDeviceguiquan\Kinect_Control_USBDevice\Kinect_Control_USBDevice\bin\Debug\Kinect.Toolbox.dll
+E:\Codes Thesis\Kinect_Control_USBDeviceguiquan\Kinect_Control_USBDevice\Kinect_Control_USBDevice\bin\Debug\Microsoft.Xna.Framework.dll
+E:\Codes Thesis\Kinect_Control_USBDeviceguiquan\Kinect_Control_USBDevice\Kinect_Control_USBDevice\bin\Debug\SharpDX.dll
+E:\Codes Thesis\Kinect_Control_USBDeviceguiquan\Kinect_Control_USBDevice\Kinect_Control_USBDevice\bin\Debug\usbGenericHidCommunications.dll
+E:\Codes Thesis\Kinect_Control_USBDeviceguiquan\Kinect_Control_USBDevice\Kinect_Control_USBDevice\bin\Debug\usbGenericHidCommunications.pdb
+D:\Code thesis\Kinect_Control_USBDeviceguiquan\Kinect_Control_USBDevice\Kinect_Control_USBDevice\bin\Debug\Kinect_Control_USBDevice.exe.config
+D:\Code thesis\Kinect_Control_USBDeviceguiquan\Kinect_Control_USBDevice\Kinect_Control_USBDevice\obj\Debug\Kinect_Control_USBDevice.exe
+D:\Code thesis\Kinect_Control_USBDeviceguiquan\Kinect_Control_USBDevice\Kinect_Control_USBDevice\obj\Debug\Kinect_Control_USBDevice.pdb
+D:\Code thesis\Kinect_Control_USBDeviceguiquan\Kinect_Control_USBDevice\Kinect_Control_USBDevice\obj\Debug\Kinect_Control_USBDevice.csprojResolveAssemblyReference.cache
+D:\Code thesis\Kinect_Control_USBDeviceguiquan\Kinect_Control_USBDevice\Kinect_Control_USBDevice\obj\Debug\MainWindow.baml
+D:\Code thesis\Kinect_Control_USBDeviceguiquan\Kinect_Control_USBDevice\Kinect_Control_USBDevice\obj\Debug\MainWindow.g.cs
+D:\Code thesis\Kinect_Control_USBDeviceguiquan\Kinect_Control_USBDevice\Kinect_Control_USBDevice\obj\Debug\App.g.cs
+D:\Code thesis\Kinect_Control_USBDeviceguiquan\Kinect_Control_USBDevice\Kinect_Control_USBDevice\obj\Debug\Kinect_Control_USBDevice_MarkupCompile.cache
+D:\Code thesis\Kinect_Control_USBDeviceguiquan\Kinect_Control_USBDevice\Kinect_Control_USBDevice\obj\Debug\Kinect_Control_USBDevice.g.resources
+D:\Code thesis\Kinect_Control_USBDeviceguiquan\Kinect_Control_USBDevice\Kinect_Control_USBDevice\obj\Debug\Kinect_Control_USBDevice.Properties.Resources.resources
+D:\Code thesis\Kinect_Control_USBDeviceguiquan\Kinect_Control_USBDevice\Kinect_Control_USBDevice\obj\Debug\Kinect_Control_USBDevice.csproj.GenerateResource.Cache
+D:\Code thesis\Kinect_Control_USBDeviceguiquan\Kinect_Control_USBDevice\Kinect_Control_USBDevice\bin\Debug\Kinect_Control_USBDevice.exe
+D:\Code thesis\Kinect_Control_USBDeviceguiquan\Kinect_Control_USBDevice\Kinect_Control_USBDevice\bin\Debug\Kinect_Control_USBDevice.pdb
+D:\Code thesis\Kinect_Control_USBDeviceguiquan\Kinect_Control_USBDevice\Kinect_Control_USBDevice\bin\Debug\Kinect.Toolbox.dll
+D:\Code thesis\Kinect_Control_USBDeviceguiquan\Kinect_Control_USBDevice\Kinect_Control_USBDevice\bin\Debug\Microsoft.Xna.Framework.dll
+D:\Code thesis\Kinect_Control_USBDeviceguiquan\Kinect_Control_USBDevice\Kinect_Control_USBDevice\bin\Debug\SharpDX.dll
+D:\Code thesis\Kinect_Control_USBDeviceguiquan\Kinect_Control_USBDevice\Kinect_Control_USBDevice\bin\Debug\usbGenericHidCommunications.dll
+D:\Code thesis\Kinect_Control_USBDeviceguiquan\Kinect_Control_USBDevice\Kinect_Control_USBDevice\bin\Debug\usbGenericHidCommunications.pdb
+E:\Codes Thesis\Final Code\25-11\Kinect_Control_USBDevice\Kinect_Control_USBDevice\bin\Debug\Kinect_Control_USBDevice.exe.config
+E:\Codes Thesis\Final Code\25-11\Kinect_Control_USBDevice\Kinect_Control_USBDevice\obj\Debug\Kinect_Control_USBDevice.exe
+E:\Codes Thesis\Final Code\25-11\Kinect_Control_USBDevice\Kinect_Control_USBDevice\obj\Debug\Kinect_Control_USBDevice.csprojResolveAssemblyReference.cache
+E:\Codes Thesis\Final Code\25-11\Kinect_Control_USBDevice\Kinect_Control_USBDevice\obj\Debug\MainWindow.baml
+E:\Codes Thesis\Final Code\25-11\Kinect_Control_USBDevice\Kinect_Control_USBDevice\obj\Debug\MainWindow.g.cs
+E:\Codes Thesis\Final Code\25-11\Kinect_Control_USBDevice\Kinect_Control_USBDevice\obj\Debug\App.g.cs
+E:\Codes Thesis\Final Code\25-11\Kinect_Control_USBDevice\Kinect_Control_USBDevice\obj\Debug\Kinect_Control_USBDevice_MarkupCompile.cache
+E:\Codes Thesis\Final Code\25-11\Kinect_Control_USBDevice\Kinect_Control_USBDevice\obj\Debug\Kinect_Control_USBDevice.g.resources
+E:\Codes Thesis\Final Code\25-11\Kinect_Control_USBDevice\Kinect_Control_USBDevice\obj\Debug\Kinect_Control_USBDevice.Properties.Resources.resources
+E:\Codes Thesis\Final Code\25-11\Kinect_Control_USBDevice\Kinect_Control_USBDevice\obj\Debug\Kinect_Control_USBDevice.csproj.GenerateResource.Cache
+E:\Codes Thesis\Final Code\25-11\Kinect_Control_USBDevice\Kinect_Control_USBDevice\bin\Debug\Kinect_Control_USBDevice.exe
+E:\Codes Thesis\Final Code\25-11\Kinect_Control_USBDevice\Kinect_Control_USBDevice\bin\Debug\Kinect_Control_USBDevice.pdb
+E:\Codes Thesis\Final Code\25-11\Kinect_Control_USBDevice\Kinect_Control_USBDevice\bin\Debug\Kinect.Toolbox.dll
+E:\Codes Thesis\Final Code\25-11\Kinect_Control_USBDevice\Kinect_Control_USBDevice\bin\Debug\Kinect.Toolbox.Voice.dll
+E:\Codes Thesis\Final Code\25-11\Kinect_Control_USBDevice\Kinect_Control_USBDevice\bin\Debug\Microsoft.Xna.Framework.dll
+E:\Codes Thesis\Final Code\25-11\Kinect_Control_USBDevice\Kinect_Control_USBDevice\bin\Debug\SharpDX.dll
+E:\Codes Thesis\Final Code\25-11\Kinect_Control_USBDevice\Kinect_Control_USBDevice\bin\Debug\usbGenericHidCommunications.dll
+E:\Codes Thesis\Final Code\25-11\Kinect_Control_USBDevice\Kinect_Control_USBDevice\bin\Debug\usbGenericHidCommunications.pdb
+E:\Codes Thesis\Final Code\25-11\Kinect_Control_USBDevice\Kinect_Control_USBDevice\obj\Debug\Kinect_Control_USBDevice.pdb
+E:\DOCUMENT AT HCMUT\NGHIEN CUU KHOA HOC\BACKUP\Kinect_Control_USBDevice2611\Kinect_Control_USBDevice\Kinect_Control_USBDevice\bin\Debug\Kinect_Control_USBDevice.exe.config
+E:\DOCUMENT AT HCMUT\NGHIEN CUU KHOA HOC\BACKUP\Kinect_Control_USBDevice2611\Kinect_Control_USBDevice\Kinect_Control_USBDevice\obj\Debug\Kinect_Control_USBDevice.exe
+E:\DOCUMENT AT HCMUT\NGHIEN CUU KHOA HOC\BACKUP\Kinect_Control_USBDevice2611\Kinect_Control_USBDevice\Kinect_Control_USBDevice\obj\Debug\Kinect_Control_USBDevice.pdb
+E:\DOCUMENT AT HCMUT\NGHIEN CUU KHOA HOC\BACKUP\Kinect_Control_USBDevice2611\Kinect_Control_USBDevice\Kinect_Control_USBDevice\bin\Debug\Kinect_Control_USBDevice.exe
+E:\DOCUMENT AT HCMUT\NGHIEN CUU KHOA HOC\BACKUP\Kinect_Control_USBDevice2611\Kinect_Control_USBDevice\Kinect_Control_USBDevice\bin\Debug\Kinect_Control_USBDevice.pdb
+E:\DOCUMENT AT HCMUT\NGHIEN CUU KHOA HOC\BACKUP\Kinect_Control_USBDevice2611\Kinect_Control_USBDevice\Kinect_Control_USBDevice\bin\Debug\Kinect.Toolbox.dll
+E:\DOCUMENT AT HCMUT\NGHIEN CUU KHOA HOC\BACKUP\Kinect_Control_USBDevice2611\Kinect_Control_USBDevice\Kinect_Control_USBDevice\bin\Debug\Microsoft.Xna.Framework.dll
+E:\DOCUMENT AT HCMUT\NGHIEN CUU KHOA HOC\BACKUP\Kinect_Control_USBDevice2611\Kinect_Control_USBDevice\Kinect_Control_USBDevice\bin\Debug\SharpDX.dll
+E:\DOCUMENT AT HCMUT\NGHIEN CUU KHOA HOC\BACKUP\Kinect_Control_USBDevice2611\Kinect_Control_USBDevice\Kinect_Control_USBDevice\bin\Debug\usbGenericHidCommunications.dll
+E:\DOCUMENT AT HCMUT\NGHIEN CUU KHOA HOC\BACKUP\Kinect_Control_USBDevice2611\Kinect_Control_USBDevice\Kinect_Control_USBDevice\bin\Debug\usbGenericHidCommunications.pdb
+E:\DOCUMENT AT HCMUT\NGHIEN CUU KHOA HOC\BACKUP\Kinect_Control_USBDevice2611\Kinect_Control_USBDevice\Kinect_Control_USBDevice\obj\Debug\Kinect_Control_USBDevice.csprojResolveAssemblyReference.cache
+E:\DOCUMENT AT HCMUT\NGHIEN CUU KHOA HOC\BACKUP\Kinect_Control_USBDevice2611\Kinect_Control_USBDevice\Kinect_Control_USBDevice\obj\Debug\MainWindow.baml
+E:\DOCUMENT AT HCMUT\NGHIEN CUU KHOA HOC\BACKUP\Kinect_Control_USBDevice2611\Kinect_Control_USBDevice\Kinect_Control_USBDevice\obj\Debug\MainWindow.g.cs
+E:\DOCUMENT AT HCMUT\NGHIEN CUU KHOA HOC\BACKUP\Kinect_Control_USBDevice2611\Kinect_Control_USBDevice\Kinect_Control_USBDevice\obj\Debug\App.g.cs
+E:\DOCUMENT AT HCMUT\NGHIEN CUU KHOA HOC\BACKUP\Kinect_Control_USBDevice2611\Kinect_Control_USBDevice\Kinect_Control_USBDevice\obj\Debug\Kinect_Control_USBDevice_MarkupCompile.cache
+E:\DOCUMENT AT HCMUT\NGHIEN CUU KHOA HOC\BACKUP\Kinect_Control_USBDevice2611\Kinect_Control_USBDevice\Kinect_Control_USBDevice\obj\Debug\Kinect_Control_USBDevice.g.resources
+E:\DOCUMENT AT HCMUT\NGHIEN CUU KHOA HOC\BACKUP\Kinect_Control_USBDevice2611\Kinect_Control_USBDevice\Kinect_Control_USBDevice\obj\Debug\Kinect_Control_USBDevice.Properties.Resources.resources
+E:\DOCUMENT AT HCMUT\NGHIEN CUU KHOA HOC\BACKUP\Kinect_Control_USBDevice2611\Kinect_Control_USBDevice\Kinect_Control_USBDevice\obj\Debug\Kinect_Control_USBDevice.csproj.GenerateResource.Cache
+E:\Codes Thesis\Final Code\25-11\29-11\kinect_control_usbdevice\Kinect_Control_USBDevice\bin\Debug\Kinect_Control_USBDevice.exe.config
+E:\Codes Thesis\Final Code\25-11\29-11\kinect_control_usbdevice\Kinect_Control_USBDevice\obj\Debug\Kinect_Control_USBDevice.exe
+E:\Codes Thesis\Final Code\25-11\29-11\kinect_control_usbdevice\Kinect_Control_USBDevice\obj\Debug\Kinect_Control_USBDevice.pdb
+E:\Codes Thesis\Final Code\25-11\29-11\kinect_control_usbdevice\Kinect_Control_USBDevice\bin\Debug\Kinect_Control_USBDevice.exe
+E:\Codes Thesis\Final Code\25-11\29-11\kinect_control_usbdevice\Kinect_Control_USBDevice\bin\Debug\Kinect_Control_USBDevice.pdb
+E:\Codes Thesis\Final Code\25-11\29-11\kinect_control_usbdevice\Kinect_Control_USBDevice\bin\Debug\Kinect.Toolbox.dll
+E:\Codes Thesis\Final Code\25-11\29-11\kinect_control_usbdevice\Kinect_Control_USBDevice\bin\Debug\Microsoft.Xna.Framework.dll
+E:\Codes Thesis\Final Code\25-11\29-11\kinect_control_usbdevice\Kinect_Control_USBDevice\bin\Debug\SharpDX.dll
+E:\Codes Thesis\Final Code\25-11\29-11\kinect_control_usbdevice\Kinect_Control_USBDevice\bin\Debug\usbGenericHidCommunications.dll
+E:\Codes Thesis\Final Code\25-11\29-11\kinect_control_usbdevice\Kinect_Control_USBDevice\bin\Debug\usbGenericHidCommunications.pdb
+E:\Codes Thesis\Final Code\25-11\29-11\kinect_control_usbdevice\Kinect_Control_USBDevice\obj\Debug\Kinect_Control_USBDevice.csprojResolveAssemblyReference.cache
+E:\Codes Thesis\Final Code\25-11\29-11\kinect_control_usbdevice\Kinect_Control_USBDevice\obj\Debug\MainWindow.baml
+E:\Codes Thesis\Final Code\25-11\29-11\kinect_control_usbdevice\Kinect_Control_USBDevice\obj\Debug\MainWindow.g.cs
+E:\Codes Thesis\Final Code\25-11\29-11\kinect_control_usbdevice\Kinect_Control_USBDevice\obj\Debug\App.g.cs
+E:\Codes Thesis\Final Code\25-11\29-11\kinect_control_usbdevice\Kinect_Control_USBDevice\obj\Debug\Kinect_Control_USBDevice_MarkupCompile.cache
+E:\Codes Thesis\Final Code\25-11\29-11\kinect_control_usbdevice\Kinect_Control_USBDevice\obj\Debug\Kinect_Control_USBDevice.g.resources
+E:\Codes Thesis\Final Code\25-11\29-11\kinect_control_usbdevice\Kinect_Control_USBDevice\obj\Debug\Kinect_Control_USBDevice.Properties.Resources.resources
+E:\Codes Thesis\Final Code\25-11\29-11\kinect_control_usbdevice\Kinect_Control_USBDevice\obj\Debug\Kinect_Control_USBDevice.csproj.GenerateResource.Cache
+E:\Codes Thesis\Final Code\25-11\29-11\kinect_control_usbdevice\Kinect_Control_USBDevice\obj\Debug\Kinect_Control_USBDevice.csproj.ResolveComReference.cache
+E:\DOCUMENT AT HCMUT\NGHIEN CUU KHOA HOC\BACKUP\kinect_control_usbdevice1_12\kinect_control_usbdevice\Kinect_Control_USBDevice\bin\Debug\Kinect_Control_USBDevice.exe.config
+E:\DOCUMENT AT HCMUT\NGHIEN CUU KHOA HOC\BACKUP\kinect_control_usbdevice1_12\kinect_control_usbdevice\Kinect_Control_USBDevice\obj\Debug\Kinect_Control_USBDevice.csproj.ResolveComReference.cache
+E:\DOCUMENT AT HCMUT\NGHIEN CUU KHOA HOC\BACKUP\kinect_control_usbdevice1_12\kinect_control_usbdevice\Kinect_Control_USBDevice\obj\Debug\Kinect_Control_USBDevice.exe
+E:\DOCUMENT AT HCMUT\NGHIEN CUU KHOA HOC\BACKUP\kinect_control_usbdevice1_12\kinect_control_usbdevice\Kinect_Control_USBDevice\obj\Debug\Kinect_Control_USBDevice.pdb
+E:\DOCUMENT AT HCMUT\NGHIEN CUU KHOA HOC\BACKUP\kinect_control_usbdevice1_12\kinect_control_usbdevice\Kinect_Control_USBDevice\bin\Debug\Kinect_Control_USBDevice.exe
+E:\DOCUMENT AT HCMUT\NGHIEN CUU KHOA HOC\BACKUP\kinect_control_usbdevice1_12\kinect_control_usbdevice\Kinect_Control_USBDevice\bin\Debug\Kinect_Control_USBDevice.pdb
+E:\DOCUMENT AT HCMUT\NGHIEN CUU KHOA HOC\BACKUP\kinect_control_usbdevice1_12\kinect_control_usbdevice\Kinect_Control_USBDevice\bin\Debug\Kinect.Toolbox.dll
+E:\DOCUMENT AT HCMUT\NGHIEN CUU KHOA HOC\BACKUP\kinect_control_usbdevice1_12\kinect_control_usbdevice\Kinect_Control_USBDevice\bin\Debug\Microsoft.Xna.Framework.dll
+E:\DOCUMENT AT HCMUT\NGHIEN CUU KHOA HOC\BACKUP\kinect_control_usbdevice1_12\kinect_control_usbdevice\Kinect_Control_USBDevice\bin\Debug\SharpDX.dll
+E:\DOCUMENT AT HCMUT\NGHIEN CUU KHOA HOC\BACKUP\kinect_control_usbdevice1_12\kinect_control_usbdevice\Kinect_Control_USBDevice\bin\Debug\usbGenericHidCommunications.dll
+E:\DOCUMENT AT HCMUT\NGHIEN CUU KHOA HOC\BACKUP\kinect_control_usbdevice1_12\kinect_control_usbdevice\Kinect_Control_USBDevice\bin\Debug\usbGenericHidCommunications.pdb
+E:\DOCUMENT AT HCMUT\NGHIEN CUU KHOA HOC\BACKUP\kinect_control_usbdevice1_12\kinect_control_usbdevice\Kinect_Control_USBDevice\obj\Debug\Kinect_Control_USBDevice.csprojResolveAssemblyReference.cache
+E:\DOCUMENT AT HCMUT\NGHIEN CUU KHOA HOC\BACKUP\kinect_control_usbdevice1_12\kinect_control_usbdevice\Kinect_Control_USBDevice\obj\Debug\MainWindow.baml
+E:\DOCUMENT AT HCMUT\NGHIEN CUU KHOA HOC\BACKUP\kinect_control_usbdevice1_12\kinect_control_usbdevice\Kinect_Control_USBDevice\obj\Debug\MainWindow.g.cs
+E:\DOCUMENT AT HCMUT\NGHIEN CUU KHOA HOC\BACKUP\kinect_control_usbdevice1_12\kinect_control_usbdevice\Kinect_Control_USBDevice\obj\Debug\App.g.cs
+E:\DOCUMENT AT HCMUT\NGHIEN CUU KHOA HOC\BACKUP\kinect_control_usbdevice1_12\kinect_control_usbdevice\Kinect_Control_USBDevice\obj\Debug\Kinect_Control_USBDevice_MarkupCompile.cache
+E:\DOCUMENT AT HCMUT\NGHIEN CUU KHOA HOC\BACKUP\kinect_control_usbdevice1_12\kinect_control_usbdevice\Kinect_Control_USBDevice\obj\Debug\Kinect_Control_USBDevice.g.resources
+E:\DOCUMENT AT HCMUT\NGHIEN CUU KHOA HOC\BACKUP\kinect_control_usbdevice1_12\kinect_control_usbdevice\Kinect_Control_USBDevice\obj\Debug\Kinect_Control_USBDevice.Properties.Resources.resources
+E:\DOCUMENT AT HCMUT\NGHIEN CUU KHOA HOC\BACKUP\kinect_control_usbdevice1_12\kinect_control_usbdevice\Kinect_Control_USBDevice\obj\Debug\Kinect_Control_USBDevice.csproj.GenerateResource.Cache
+E:\DOCUMENT AT HCMUT\NGHIEN CUU KHOA HOC\BACKUP\kinect_control_usbdevice1_12\kinect_control_usbdevice\Kinect_Control_USBDevice\obj\Debug\frAbout.baml
+E:\DOCUMENT AT HCMUT\NGHIEN CUU KHOA HOC\BACKUP\kinect_control_usbdevice1_12\kinect_control_usbdevice\Kinect_Control_USBDevice\obj\Debug\frAbout.g.cs
+E:\Codes Thesis\Final Code\7-12\kinect_control_usbdevice\Kinect_Control_USBDevice\bin\Debug\Kinect_Control_USBDevice.exe.config
+E:\Codes Thesis\Final Code\7-12\kinect_control_usbdevice\Kinect_Control_USBDevice\obj\Debug\Kinect_Control_USBDevice.csproj.ResolveComReference.cache
+E:\Codes Thesis\Final Code\7-12\kinect_control_usbdevice\Kinect_Control_USBDevice\obj\Debug\Kinect_Control_USBDevice.exe
+E:\Codes Thesis\Final Code\7-12\kinect_control_usbdevice\Kinect_Control_USBDevice\obj\Debug\Kinect_Control_USBDevice.pdb
+E:\Codes Thesis\Final Code\7-12\kinect_control_usbdevice\Kinect_Control_USBDevice\bin\Debug\Kinect_Control_USBDevice.exe
+E:\Codes Thesis\Final Code\7-12\kinect_control_usbdevice\Kinect_Control_USBDevice\bin\Debug\Kinect_Control_USBDevice.pdb
+E:\Codes Thesis\Final Code\7-12\kinect_control_usbdevice\Kinect_Control_USBDevice\bin\Debug\Kinect.Toolbox.dll
+E:\Codes Thesis\Final Code\7-12\kinect_control_usbdevice\Kinect_Control_USBDevice\bin\Debug\Kinect.Toolbox.Voice.dll
+E:\Codes Thesis\Final Code\7-12\kinect_control_usbdevice\Kinect_Control_USBDevice\bin\Debug\Microsoft.Xna.Framework.dll
+E:\Codes Thesis\Final Code\7-12\kinect_control_usbdevice\Kinect_Control_USBDevice\bin\Debug\SharpDX.dll
+E:\Codes Thesis\Final Code\7-12\kinect_control_usbdevice\Kinect_Control_USBDevice\bin\Debug\usbGenericHidCommunications.dll
+E:\Codes Thesis\Final Code\7-12\kinect_control_usbdevice\Kinect_Control_USBDevice\bin\Debug\usbGenericHidCommunications.pdb
+E:\Codes Thesis\Final Code\7-12\kinect_control_usbdevice\Kinect_Control_USBDevice\obj\Debug\Kinect_Control_USBDevice.csprojResolveAssemblyReference.cache
+E:\Codes Thesis\Final Code\7-12\kinect_control_usbdevice\Kinect_Control_USBDevice\obj\Debug\frAbout.baml
+E:\Codes Thesis\Final Code\7-12\kinect_control_usbdevice\Kinect_Control_USBDevice\obj\Debug\MainWindow.baml
+E:\Codes Thesis\Final Code\7-12\kinect_control_usbdevice\Kinect_Control_USBDevice\obj\Debug\frAbout.g.cs
+E:\Codes Thesis\Final Code\7-12\kinect_control_usbdevice\Kinect_Control_USBDevice\obj\Debug\MainWindow.g.cs
+E:\Codes Thesis\Final Code\7-12\kinect_control_usbdevice\Kinect_Control_USBDevice\obj\Debug\App.g.cs
+E:\Codes Thesis\Final Code\7-12\kinect_control_usbdevice\Kinect_Control_USBDevice\obj\Debug\Kinect_Control_USBDevice_MarkupCompile.cache
+E:\Codes Thesis\Final Code\7-12\kinect_control_usbdevice\Kinect_Control_USBDevice\obj\Debug\Kinect_Control_USBDevice.g.resources
+E:\Codes Thesis\Final Code\7-12\kinect_control_usbdevice\Kinect_Control_USBDevice\obj\Debug\Kinect_Control_USBDevice.Properties.Resources.resources
+E:\Codes Thesis\Final Code\7-12\kinect_control_usbdevice\Kinect_Control_USBDevice\obj\Debug\Kinect_Control_USBDevice.csproj.GenerateResource.Cache
+E:\DOCUMENT AT HCMUT\NGHIEN CUU KHOA HOC\BACKUP\kinect_control_usbdevice8_12\kinect_control_usbdevice\Kinect_Control_USBDevice\bin\Debug\Kinect_Control_USBDevice.exe.config
+E:\DOCUMENT AT HCMUT\NGHIEN CUU KHOA HOC\BACKUP\kinect_control_usbdevice8_12\kinect_control_usbdevice\Kinect_Control_USBDevice\obj\Debug\Kinect_Control_USBDevice.csproj.ResolveComReference.cache
+E:\DOCUMENT AT HCMUT\NGHIEN CUU KHOA HOC\BACKUP\kinect_control_usbdevice8_12\kinect_control_usbdevice\Kinect_Control_USBDevice\obj\Debug\Kinect_Control_USBDevice.exe
+E:\DOCUMENT AT HCMUT\NGHIEN CUU KHOA HOC\BACKUP\kinect_control_usbdevice8_12\kinect_control_usbdevice\Kinect_Control_USBDevice\obj\Debug\Kinect_Control_USBDevice.pdb
+E:\DOCUMENT AT HCMUT\NGHIEN CUU KHOA HOC\BACKUP\kinect_control_usbdevice8_12\kinect_control_usbdevice\Kinect_Control_USBDevice\bin\Debug\Kinect_Control_USBDevice.exe
+E:\DOCUMENT AT HCMUT\NGHIEN CUU KHOA HOC\BACKUP\kinect_control_usbdevice8_12\kinect_control_usbdevice\Kinect_Control_USBDevice\bin\Debug\Kinect_Control_USBDevice.pdb
+E:\DOCUMENT AT HCMUT\NGHIEN CUU KHOA HOC\BACKUP\kinect_control_usbdevice8_12\kinect_control_usbdevice\Kinect_Control_USBDevice\bin\Debug\Kinect.Toolbox.dll
+E:\DOCUMENT AT HCMUT\NGHIEN CUU KHOA HOC\BACKUP\kinect_control_usbdevice8_12\kinect_control_usbdevice\Kinect_Control_USBDevice\bin\Debug\Microsoft.Xna.Framework.dll
+E:\DOCUMENT AT HCMUT\NGHIEN CUU KHOA HOC\BACKUP\kinect_control_usbdevice8_12\kinect_control_usbdevice\Kinect_Control_USBDevice\bin\Debug\SharpDX.dll
+E:\DOCUMENT AT HCMUT\NGHIEN CUU KHOA HOC\BACKUP\kinect_control_usbdevice8_12\kinect_control_usbdevice\Kinect_Control_USBDevice\bin\Debug\usbGenericHidCommunications.dll
+E:\DOCUMENT AT HCMUT\NGHIEN CUU KHOA HOC\BACKUP\kinect_control_usbdevice8_12\kinect_control_usbdevice\Kinect_Control_USBDevice\bin\Debug\usbGenericHidCommunications.pdb
+E:\DOCUMENT AT HCMUT\NGHIEN CUU KHOA HOC\BACKUP\kinect_control_usbdevice8_12\kinect_control_usbdevice\Kinect_Control_USBDevice\obj\Debug\frAbout.baml
+E:\DOCUMENT AT HCMUT\NGHIEN CUU KHOA HOC\BACKUP\kinect_control_usbdevice8_12\kinect_control_usbdevice\Kinect_Control_USBDevice\obj\Debug\MainWindow.baml
+E:\DOCUMENT AT HCMUT\NGHIEN CUU KHOA HOC\BACKUP\kinect_control_usbdevice8_12\kinect_control_usbdevice\Kinect_Control_USBDevice\obj\Debug\frAbout.g.cs
+E:\DOCUMENT AT HCMUT\NGHIEN CUU KHOA HOC\BACKUP\kinect_control_usbdevice8_12\kinect_control_usbdevice\Kinect_Control_USBDevice\obj\Debug\MainWindow.g.cs
+E:\DOCUMENT AT HCMUT\NGHIEN CUU KHOA HOC\BACKUP\kinect_control_usbdevice8_12\kinect_control_usbdevice\Kinect_Control_USBDevice\obj\Debug\App.g.cs
+E:\DOCUMENT AT HCMUT\NGHIEN CUU KHOA HOC\BACKUP\kinect_control_usbdevice8_12\kinect_control_usbdevice\Kinect_Control_USBDevice\obj\Debug\Kinect_Control_USBDevice_MarkupCompile.cache
+E:\DOCUMENT AT HCMUT\NGHIEN CUU KHOA HOC\BACKUP\kinect_control_usbdevice8_12\kinect_control_usbdevice\Kinect_Control_USBDevice\obj\Debug\Kinect_Control_USBDevice.g.resources
+E:\DOCUMENT AT HCMUT\NGHIEN CUU KHOA HOC\BACKUP\kinect_control_usbdevice8_12\kinect_control_usbdevice\Kinect_Control_USBDevice\obj\Debug\Kinect_Control_USBDevice.Properties.Resources.resources
+E:\DOCUMENT AT HCMUT\NGHIEN CUU KHOA HOC\BACKUP\kinect_control_usbdevice8_12\kinect_control_usbdevice\Kinect_Control_USBDevice\obj\Debug\Kinect_Control_USBDevice.csproj.GenerateResource.Cache
+E:\DOCUMENT AT HCMUT\NGHIEN CUU KHOA HOC\BACKUP\kinect_control_usbdevice8_12\kinect_control_usbdevice\Kinect_Control_USBDevice\obj\Debug\Kinect_Control_USBDevice.csprojResolveAssemblyReference.cache
+E:\Codes Thesis\Final Code\12-12\kinect_control_usbdevice\Kinect_Control_USBDevice\bin\Debug\Kinect_Control_USBDevice.exe.config
+E:\Codes Thesis\Final Code\12-12\kinect_control_usbdevice\Kinect_Control_USBDevice\obj\Debug\Kinect_Control_USBDevice.csproj.ResolveComReference.cache
+E:\Codes Thesis\Final Code\12-12\kinect_control_usbdevice\Kinect_Control_USBDevice\obj\Debug\Kinect_Control_USBDevice.exe
+E:\Codes Thesis\Final Code\12-12\kinect_control_usbdevice\Kinect_Control_USBDevice\obj\Debug\Kinect_Control_USBDevice.pdb
+E:\Codes Thesis\Final Code\12-12\kinect_control_usbdevice\Kinect_Control_USBDevice\bin\Debug\Kinect_Control_USBDevice.exe
+E:\Codes Thesis\Final Code\12-12\kinect_control_usbdevice\Kinect_Control_USBDevice\bin\Debug\Kinect_Control_USBDevice.pdb
+E:\Codes Thesis\Final Code\12-12\kinect_control_usbdevice\Kinect_Control_USBDevice\bin\Debug\Kinect.Toolbox.dll
+E:\Codes Thesis\Final Code\12-12\kinect_control_usbdevice\Kinect_Control_USBDevice\bin\Debug\Kinect.Toolbox.Voice.dll
+E:\Codes Thesis\Final Code\12-12\kinect_control_usbdevice\Kinect_Control_USBDevice\bin\Debug\Microsoft.Xna.Framework.dll
+E:\Codes Thesis\Final Code\12-12\kinect_control_usbdevice\Kinect_Control_USBDevice\bin\Debug\SharpDX.dll
+E:\Codes Thesis\Final Code\12-12\kinect_control_usbdevice\Kinect_Control_USBDevice\bin\Debug\usbGenericHidCommunications.dll
+E:\Codes Thesis\Final Code\12-12\kinect_control_usbdevice\Kinect_Control_USBDevice\bin\Debug\usbGenericHidCommunications.pdb
+E:\Codes Thesis\Final Code\12-12\kinect_control_usbdevice\Kinect_Control_USBDevice\obj\Debug\frAbout.baml
+E:\Codes Thesis\Final Code\12-12\kinect_control_usbdevice\Kinect_Control_USBDevice\obj\Debug\MainWindow.baml
+E:\Codes Thesis\Final Code\12-12\kinect_control_usbdevice\Kinect_Control_USBDevice\obj\Debug\frAbout.g.cs
+E:\Codes Thesis\Final Code\12-12\kinect_control_usbdevice\Kinect_Control_USBDevice\obj\Debug\MainWindow.g.cs
+E:\Codes Thesis\Final Code\12-12\kinect_control_usbdevice\Kinect_Control_USBDevice\obj\Debug\App.g.cs
+E:\Codes Thesis\Final Code\12-12\kinect_control_usbdevice\Kinect_Control_USBDevice\obj\Debug\Kinect_Control_USBDevice_MarkupCompile.cache
+E:\Codes Thesis\Final Code\12-12\kinect_control_usbdevice\Kinect_Control_USBDevice\obj\Debug\Kinect_Control_USBDevice.g.resources
+E:\Codes Thesis\Final Code\12-12\kinect_control_usbdevice\Kinect_Control_USBDevice\obj\Debug\Kinect_Control_USBDevice.Properties.Resources.resources
+E:\Codes Thesis\Final Code\12-12\kinect_control_usbdevice\Kinect_Control_USBDevice\obj\Debug\Kinect_Control_USBDevice.csproj.GenerateResource.Cache
+E:\Codes Thesis\Final Code\12-12\kinect_control_usbdevice\Kinect_Control_USBDevice\obj\Debug\Kinect_Control_USBDevice.csprojResolveAssemblyReference.cache
+C:\Users\PINK_RAIN\Dropbox\UPDATE THESIS\12-12kinect\12-12\kinect_control_usbdevice\Kinect_Control_USBDevice\bin\Debug\Kinect_Control_USBDevice.exe.config
+C:\Users\PINK_RAIN\Dropbox\UPDATE THESIS\12-12kinect\12-12\kinect_control_usbdevice\Kinect_Control_USBDevice\obj\Debug\Kinect_Control_USBDevice.csproj.ResolveComReference.cache
+C:\Users\PINK_RAIN\Dropbox\UPDATE THESIS\12-12kinect\12-12\kinect_control_usbdevice\Kinect_Control_USBDevice\obj\Debug\Kinect_Control_USBDevice.exe
+C:\Users\PINK_RAIN\Dropbox\UPDATE THESIS\12-12kinect\12-12\kinect_control_usbdevice\Kinect_Control_USBDevice\obj\Debug\Kinect_Control_USBDevice.pdb
+C:\Users\PINK_RAIN\Dropbox\UPDATE THESIS\12-12kinect\12-12\kinect_control_usbdevice\Kinect_Control_USBDevice\bin\Debug\Kinect_Control_USBDevice.exe
+C:\Users\PINK_RAIN\Dropbox\UPDATE THESIS\12-12kinect\12-12\kinect_control_usbdevice\Kinect_Control_USBDevice\bin\Debug\Kinect_Control_USBDevice.pdb
+C:\Users\PINK_RAIN\Dropbox\UPDATE THESIS\12-12kinect\12-12\kinect_control_usbdevice\Kinect_Control_USBDevice\bin\Debug\Kinect.Toolbox.dll
+C:\Users\PINK_RAIN\Dropbox\UPDATE THESIS\12-12kinect\12-12\kinect_control_usbdevice\Kinect_Control_USBDevice\bin\Debug\Microsoft.Xna.Framework.dll
+C:\Users\PINK_RAIN\Dropbox\UPDATE THESIS\12-12kinect\12-12\kinect_control_usbdevice\Kinect_Control_USBDevice\bin\Debug\SharpDX.dll
+C:\Users\PINK_RAIN\Dropbox\UPDATE THESIS\12-12kinect\12-12\kinect_control_usbdevice\Kinect_Control_USBDevice\bin\Debug\usbGenericHidCommunications.dll
+C:\Users\PINK_RAIN\Dropbox\UPDATE THESIS\12-12kinect\12-12\kinect_control_usbdevice\Kinect_Control_USBDevice\bin\Debug\usbGenericHidCommunications.pdb
+C:\Users\PINK_RAIN\Dropbox\UPDATE THESIS\12-12kinect\12-12\kinect_control_usbdevice\Kinect_Control_USBDevice\obj\Debug\Kinect_Control_USBDevice.csprojResolveAssemblyReference.cache
+C:\Users\PINK_RAIN\Dropbox\UPDATE THESIS\12-12kinect\12-12\kinect_control_usbdevice\Kinect_Control_USBDevice\obj\Debug\frAbout.baml
+C:\Users\PINK_RAIN\Dropbox\UPDATE THESIS\12-12kinect\12-12\kinect_control_usbdevice\Kinect_Control_USBDevice\obj\Debug\MainWindow.baml
+C:\Users\PINK_RAIN\Dropbox\UPDATE THESIS\12-12kinect\12-12\kinect_control_usbdevice\Kinect_Control_USBDevice\obj\Debug\frAbout.g.cs
+C:\Users\PINK_RAIN\Dropbox\UPDATE THESIS\12-12kinect\12-12\kinect_control_usbdevice\Kinect_Control_USBDevice\obj\Debug\MainWindow.g.cs
+C:\Users\PINK_RAIN\Dropbox\UPDATE THESIS\12-12kinect\12-12\kinect_control_usbdevice\Kinect_Control_USBDevice\obj\Debug\App.g.cs
+C:\Users\PINK_RAIN\Dropbox\UPDATE THESIS\12-12kinect\12-12\kinect_control_usbdevice\Kinect_Control_USBDevice\obj\Debug\Kinect_Control_USBDevice_MarkupCompile.cache
+C:\Users\PINK_RAIN\Dropbox\UPDATE THESIS\12-12kinect\12-12\kinect_control_usbdevice\Kinect_Control_USBDevice\obj\Debug\Kinect_Control_USBDevice.g.resources
+C:\Users\PINK_RAIN\Dropbox\UPDATE THESIS\12-12kinect\12-12\kinect_control_usbdevice\Kinect_Control_USBDevice\obj\Debug\Kinect_Control_USBDevice.Properties.Resources.resources
+C:\Users\PINK_RAIN\Dropbox\UPDATE THESIS\12-12kinect\12-12\kinect_control_usbdevice\Kinect_Control_USBDevice\obj\Debug\Kinect_Control_USBDevice.csproj.GenerateResource.Cache
+C:\Users\PINK_RAIN\Dropbox\UPDATE THESIS\12-12kinect\12-12\kinect_control_usbdevice\Kinect_Control_USBDevice\obj\Debug\Datagrid.baml
+C:\Users\PINK_RAIN\Dropbox\UPDATE THESIS\12-12kinect\12-12\kinect_control_usbdevice\Kinect_Control_USBDevice\obj\Debug\Datagrid.g.cs
+C:\Users\PINK_RAIN\Dropbox\UPDATE THESIS\16122014\kinect_control_usbdevice\Kinect_Control_USBDevice\bin\Debug\Kinect_Control_USBDevice.exe.config
+C:\Users\PINK_RAIN\Dropbox\UPDATE THESIS\16122014\kinect_control_usbdevice\Kinect_Control_USBDevice\obj\Debug\Kinect_Control_USBDevice.csproj.ResolveComReference.cache
+C:\Users\PINK_RAIN\Dropbox\UPDATE THESIS\16122014\kinect_control_usbdevice\Kinect_Control_USBDevice\obj\Debug\Kinect_Control_USBDevice.exe
+C:\Users\PINK_RAIN\Dropbox\UPDATE THESIS\16122014\kinect_control_usbdevice\Kinect_Control_USBDevice\obj\Debug\Kinect_Control_USBDevice.pdb
+C:\Users\PINK_RAIN\Dropbox\UPDATE THESIS\16122014\kinect_control_usbdevice\Kinect_Control_USBDevice\bin\Debug\Kinect_Control_USBDevice.exe
+C:\Users\PINK_RAIN\Dropbox\UPDATE THESIS\16122014\kinect_control_usbdevice\Kinect_Control_USBDevice\bin\Debug\Kinect_Control_USBDevice.pdb
+C:\Users\PINK_RAIN\Dropbox\UPDATE THESIS\16122014\kinect_control_usbdevice\Kinect_Control_USBDevice\bin\Debug\Kinect.Toolbox.dll
+C:\Users\PINK_RAIN\Dropbox\UPDATE THESIS\16122014\kinect_control_usbdevice\Kinect_Control_USBDevice\bin\Debug\Microsoft.Xna.Framework.dll
+C:\Users\PINK_RAIN\Dropbox\UPDATE THESIS\16122014\kinect_control_usbdevice\Kinect_Control_USBDevice\bin\Debug\SharpDX.dll
+C:\Users\PINK_RAIN\Dropbox\UPDATE THESIS\16122014\kinect_control_usbdevice\Kinect_Control_USBDevice\bin\Debug\usbGenericHidCommunications.dll
+C:\Users\PINK_RAIN\Dropbox\UPDATE THESIS\16122014\kinect_control_usbdevice\Kinect_Control_USBDevice\bin\Debug\usbGenericHidCommunications.pdb
+C:\Users\PINK_RAIN\Dropbox\UPDATE THESIS\16122014\kinect_control_usbdevice\Kinect_Control_USBDevice\obj\Debug\Kinect_Control_USBDevice.csprojResolveAssemblyReference.cache
+C:\Users\PINK_RAIN\Dropbox\UPDATE THESIS\16122014\kinect_control_usbdevice\Kinect_Control_USBDevice\obj\Debug\Datagrid.baml
+C:\Users\PINK_RAIN\Dropbox\UPDATE THESIS\16122014\kinect_control_usbdevice\Kinect_Control_USBDevice\obj\Debug\frAbout.baml
+C:\Users\PINK_RAIN\Dropbox\UPDATE THESIS\16122014\kinect_control_usbdevice\Kinect_Control_USBDevice\obj\Debug\MainWindow.baml
+C:\Users\PINK_RAIN\Dropbox\UPDATE THESIS\16122014\kinect_control_usbdevice\Kinect_Control_USBDevice\obj\Debug\Datagrid.g.cs
+C:\Users\PINK_RAIN\Dropbox\UPDATE THESIS\16122014\kinect_control_usbdevice\Kinect_Control_USBDevice\obj\Debug\frAbout.g.cs
+C:\Users\PINK_RAIN\Dropbox\UPDATE THESIS\16122014\kinect_control_usbdevice\Kinect_Control_USBDevice\obj\Debug\MainWindow.g.cs
+C:\Users\PINK_RAIN\Dropbox\UPDATE THESIS\16122014\kinect_control_usbdevice\Kinect_Control_USBDevice\obj\Debug\App.g.cs
+C:\Users\PINK_RAIN\Dropbox\UPDATE THESIS\16122014\kinect_control_usbdevice\Kinect_Control_USBDevice\obj\Debug\Kinect_Control_USBDevice_MarkupCompile.cache
+C:\Users\PINK_RAIN\Dropbox\UPDATE THESIS\16122014\kinect_control_usbdevice\Kinect_Control_USBDevice\obj\Debug\Kinect_Control_USBDevice.g.resources
+C:\Users\PINK_RAIN\Dropbox\UPDATE THESIS\16122014\kinect_control_usbdevice\Kinect_Control_USBDevice\obj\Debug\Kinect_Control_USBDevice.Properties.Resources.resources
+C:\Users\PINK_RAIN\Dropbox\UPDATE THESIS\16122014\kinect_control_usbdevice\Kinect_Control_USBDevice\obj\Debug\Kinect_Control_USBDevice.csproj.GenerateResource.Cache
+E:\Codes Thesis\Final Code\16-12\kinect_control_usbdevice\Kinect_Control_USBDevice\bin\Debug\Kinect_Control_USBDevice.exe.config
+E:\Codes Thesis\Final Code\16-12\kinect_control_usbdevice\Kinect_Control_USBDevice\obj\Debug\Kinect_Control_USBDevice.csproj.ResolveComReference.cache
+E:\Codes Thesis\Final Code\16-12\kinect_control_usbdevice\Kinect_Control_USBDevice\obj\Debug\Kinect_Control_USBDevice.exe
+E:\Codes Thesis\Final Code\16-12\kinect_control_usbdevice\Kinect_Control_USBDevice\obj\Debug\Kinect_Control_USBDevice.pdb
+E:\Codes Thesis\Final Code\16-12\kinect_control_usbdevice\Kinect_Control_USBDevice\bin\Debug\Kinect_Control_USBDevice.exe
+E:\Codes Thesis\Final Code\16-12\kinect_control_usbdevice\Kinect_Control_USBDevice\bin\Debug\Kinect_Control_USBDevice.pdb
+E:\Codes Thesis\Final Code\16-12\kinect_control_usbdevice\Kinect_Control_USBDevice\bin\Debug\Kinect.Toolbox.dll
+E:\Codes Thesis\Final Code\16-12\kinect_control_usbdevice\Kinect_Control_USBDevice\bin\Debug\Kinect.Toolbox.Voice.dll
+E:\Codes Thesis\Final Code\16-12\kinect_control_usbdevice\Kinect_Control_USBDevice\bin\Debug\Microsoft.Xna.Framework.dll
+E:\Codes Thesis\Final Code\16-12\kinect_control_usbdevice\Kinect_Control_USBDevice\bin\Debug\SharpDX.dll
+E:\Codes Thesis\Final Code\16-12\kinect_control_usbdevice\Kinect_Control_USBDevice\bin\Debug\usbGenericHidCommunications.dll
+E:\Codes Thesis\Final Code\16-12\kinect_control_usbdevice\Kinect_Control_USBDevice\bin\Debug\usbGenericHidCommunications.pdb
+E:\Codes Thesis\Final Code\16-12\kinect_control_usbdevice\Kinect_Control_USBDevice\obj\Debug\Datagrid.baml
+E:\Codes Thesis\Final Code\16-12\kinect_control_usbdevice\Kinect_Control_USBDevice\obj\Debug\frAbout.baml
+E:\Codes Thesis\Final Code\16-12\kinect_control_usbdevice\Kinect_Control_USBDevice\obj\Debug\MainWindow.baml
+E:\Codes Thesis\Final Code\16-12\kinect_control_usbdevice\Kinect_Control_USBDevice\obj\Debug\Datagrid.g.cs
+E:\Codes Thesis\Final Code\16-12\kinect_control_usbdevice\Kinect_Control_USBDevice\obj\Debug\frAbout.g.cs
+E:\Codes Thesis\Final Code\16-12\kinect_control_usbdevice\Kinect_Control_USBDevice\obj\Debug\MainWindow.g.cs
+E:\Codes Thesis\Final Code\16-12\kinect_control_usbdevice\Kinect_Control_USBDevice\obj\Debug\App.g.cs
+E:\Codes Thesis\Final Code\16-12\kinect_control_usbdevice\Kinect_Control_USBDevice\obj\Debug\Kinect_Control_USBDevice_MarkupCompile.cache
+E:\Codes Thesis\Final Code\16-12\kinect_control_usbdevice\Kinect_Control_USBDevice\obj\Debug\Kinect_Control_USBDevice.g.resources
+E:\Codes Thesis\Final Code\16-12\kinect_control_usbdevice\Kinect_Control_USBDevice\obj\Debug\Kinect_Control_USBDevice.Properties.Resources.resources
+E:\Codes Thesis\Final Code\16-12\kinect_control_usbdevice\Kinect_Control_USBDevice\obj\Debug\Kinect_Control_USBDevice.csproj.GenerateResource.Cache
+E:\Codes Thesis\Final Code\16-12\kinect_control_usbdevice\Kinect_Control_USBDevice\obj\Debug\Kinect_Control_USBDevice.csprojResolveAssemblyReference.cache
+C:\Users\PINK_RAIN\Dropbox\16-12_gridata\16-12\kinect_control_usbdevice\Kinect_Control_USBDevice\bin\Debug\Kinect_Control_USBDevice.exe.config
+C:\Users\PINK_RAIN\Dropbox\16-12_gridata\16-12\kinect_control_usbdevice\Kinect_Control_USBDevice\obj\Debug\Kinect_Control_USBDevice.csproj.ResolveComReference.cache
+C:\Users\PINK_RAIN\Dropbox\16-12_gridata\16-12\kinect_control_usbdevice\Kinect_Control_USBDevice\obj\Debug\Kinect_Control_USBDevice.exe
+C:\Users\PINK_RAIN\Dropbox\16-12_gridata\16-12\kinect_control_usbdevice\Kinect_Control_USBDevice\obj\Debug\Kinect_Control_USBDevice.pdb
+C:\Users\PINK_RAIN\Dropbox\16-12_gridata\16-12\kinect_control_usbdevice\Kinect_Control_USBDevice\bin\Debug\Kinect_Control_USBDevice.exe
+C:\Users\PINK_RAIN\Dropbox\16-12_gridata\16-12\kinect_control_usbdevice\Kinect_Control_USBDevice\bin\Debug\Kinect_Control_USBDevice.pdb
+C:\Users\PINK_RAIN\Dropbox\16-12_gridata\16-12\kinect_control_usbdevice\Kinect_Control_USBDevice\bin\Debug\Kinect.Toolbox.dll
+C:\Users\PINK_RAIN\Dropbox\16-12_gridata\16-12\kinect_control_usbdevice\Kinect_Control_USBDevice\bin\Debug\Microsoft.Xna.Framework.dll
+C:\Users\PINK_RAIN\Dropbox\16-12_gridata\16-12\kinect_control_usbdevice\Kinect_Control_USBDevice\bin\Debug\SharpDX.dll
+C:\Users\PINK_RAIN\Dropbox\16-12_gridata\16-12\kinect_control_usbdevice\Kinect_Control_USBDevice\bin\Debug\usbGenericHidCommunications.dll
+C:\Users\PINK_RAIN\Dropbox\16-12_gridata\16-12\kinect_control_usbdevice\Kinect_Control_USBDevice\bin\Debug\usbGenericHidCommunications.pdb
+C:\Users\PINK_RAIN\Dropbox\16-12_gridata\16-12\kinect_control_usbdevice\Kinect_Control_USBDevice\obj\Debug\Kinect_Control_USBDevice.csprojResolveAssemblyReference.cache
+C:\Users\PINK_RAIN\Dropbox\16-12_gridata\16-12\kinect_control_usbdevice\Kinect_Control_USBDevice\obj\Debug\Datagrid.baml
+C:\Users\PINK_RAIN\Dropbox\16-12_gridata\16-12\kinect_control_usbdevice\Kinect_Control_USBDevice\obj\Debug\frAbout.baml
+C:\Users\PINK_RAIN\Dropbox\16-12_gridata\16-12\kinect_control_usbdevice\Kinect_Control_USBDevice\obj\Debug\MainWindow.baml
+C:\Users\PINK_RAIN\Dropbox\16-12_gridata\16-12\kinect_control_usbdevice\Kinect_Control_USBDevice\obj\Debug\Datagrid.g.cs
+C:\Users\PINK_RAIN\Dropbox\16-12_gridata\16-12\kinect_control_usbdevice\Kinect_Control_USBDevice\obj\Debug\frAbout.g.cs
+C:\Users\PINK_RAIN\Dropbox\16-12_gridata\16-12\kinect_control_usbdevice\Kinect_Control_USBDevice\obj\Debug\MainWindow.g.cs
+C:\Users\PINK_RAIN\Dropbox\16-12_gridata\16-12\kinect_control_usbdevice\Kinect_Control_USBDevice\obj\Debug\App.g.cs
+C:\Users\PINK_RAIN\Dropbox\16-12_gridata\16-12\kinect_control_usbdevice\Kinect_Control_USBDevice\obj\Debug\Kinect_Control_USBDevice_MarkupCompile.cache
+C:\Users\PINK_RAIN\Dropbox\16-12_gridata\16-12\kinect_control_usbdevice\Kinect_Control_USBDevice\obj\Debug\Kinect_Control_USBDevice.g.resources
+C:\Users\PINK_RAIN\Dropbox\16-12_gridata\16-12\kinect_control_usbdevice\Kinect_Control_USBDevice\obj\Debug\Kinect_Control_USBDevice.Properties.Resources.resources
+C:\Users\PINK_RAIN\Dropbox\16-12_gridata\16-12\kinect_control_usbdevice\Kinect_Control_USBDevice\obj\Debug\Kinect_Control_USBDevice.csproj.GenerateResource.Cache
+C:\Users\PINK_RAIN\Dropbox\16-12_gridata\16-12\kinect_control_usbdevice\Kinect_Control_USBDevice\bin\Debug\ZedGraph.dll
+C:\Users\PINK_RAIN\Dropbox\16-12_gridata\16-12\kinect_control_usbdevice\Kinect_Control_USBDevice\bin\Debug\ZedGraph.xml
+C:\Users\PINK_RAIN\Dropbox\16-12_gridata\16-12\kinect_control_usbdevice\Kinect_Control_USBDevice\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\PINK_RAIN\Dropbox\16-12_gridata\16-12\kinect_control_usbdevice\Kinect_Control_USBDevice\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\PINK_RAIN\Dropbox\16-12_gridata\16-12\kinect_control_usbdevice\Kinect_Control_USBDevice\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\PINK_RAIN\Dropbox\16-12_gridata\16-12\kinect_control_usbdevice\Kinect_Control_USBDevice\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\PINK_RAIN\Dropbox\16-12_gridata\16-12\kinect_control_usbdevice\Kinect_Control_USBDevice\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\PINK_RAIN\Dropbox\16-12_gridata\16-12\kinect_control_usbdevice\Kinect_Control_USBDevice\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\PINK_RAIN\Dropbox\16-12_gridata\16-12\kinect_control_usbdevice\Kinect_Control_USBDevice\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\PINK_RAIN\Dropbox\16-12_gridata\16-12\kinect_control_usbdevice\Kinect_Control_USBDevice\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\PINK_RAIN\Dropbox\16-12_gridata\16-12\kinect_control_usbdevice\Kinect_Control_USBDevice\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\PINK_RAIN\Dropbox\16-12_gridata\16-12\kinect_control_usbdevice\Kinect_Control_USBDevice\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\PINK_RAIN\Dropbox\16-12_gridata\16-12\kinect_control_usbdevice\Kinect_Control_USBDevice\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\PINK_RAIN\Dropbox\16-12_gridata\16-12\kinect_control_usbdevice\Kinect_Control_USBDevice\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\PINK_RAIN\Dropbox\16-12_gridata\16-12\kinect_control_usbdevice\Kinect_Control_USBDevice\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\PINK_RAIN\Dropbox\16-12_gridata\16-12\kinect_control_usbdevice\Kinect_Control_USBDevice\obj\Debug\Kinect_Control_USBDevice.Graph.resources
+C:\Users\PINK_RAIN\Dropbox\UPDATE THESIS\17122014\kinect_control_usbdevice\Kinect_Control_USBDevice\bin\Debug\Kinect_Control_USBDevice.exe.config
+C:\Users\PINK_RAIN\Dropbox\UPDATE THESIS\17122014\kinect_control_usbdevice\Kinect_Control_USBDevice\obj\Debug\Kinect_Control_USBDevice.csproj.ResolveComReference.cache
+C:\Users\PINK_RAIN\Dropbox\UPDATE THESIS\17122014\kinect_control_usbdevice\Kinect_Control_USBDevice\obj\Debug\Kinect_Control_USBDevice.exe
+C:\Users\PINK_RAIN\Dropbox\UPDATE THESIS\17122014\kinect_control_usbdevice\Kinect_Control_USBDevice\obj\Debug\Kinect_Control_USBDevice.pdb
+C:\Users\PINK_RAIN\Dropbox\UPDATE THESIS\17122014\kinect_control_usbdevice\Kinect_Control_USBDevice\bin\Debug\Kinect_Control_USBDevice.exe
+C:\Users\PINK_RAIN\Dropbox\UPDATE THESIS\17122014\kinect_control_usbdevice\Kinect_Control_USBDevice\bin\Debug\Kinect_Control_USBDevice.pdb
+C:\Users\PINK_RAIN\Dropbox\UPDATE THESIS\17122014\kinect_control_usbdevice\Kinect_Control_USBDevice\bin\Debug\Kinect.Toolbox.dll
+C:\Users\PINK_RAIN\Dropbox\UPDATE THESIS\17122014\kinect_control_usbdevice\Kinect_Control_USBDevice\bin\Debug\Microsoft.Xna.Framework.dll
+C:\Users\PINK_RAIN\Dropbox\UPDATE THESIS\17122014\kinect_control_usbdevice\Kinect_Control_USBDevice\bin\Debug\SharpDX.dll
+C:\Users\PINK_RAIN\Dropbox\UPDATE THESIS\17122014\kinect_control_usbdevice\Kinect_Control_USBDevice\bin\Debug\usbGenericHidCommunications.dll
+C:\Users\PINK_RAIN\Dropbox\UPDATE THESIS\17122014\kinect_control_usbdevice\Kinect_Control_USBDevice\bin\Debug\ZedGraph.dll
+C:\Users\PINK_RAIN\Dropbox\UPDATE THESIS\17122014\kinect_control_usbdevice\Kinect_Control_USBDevice\bin\Debug\usbGenericHidCommunications.pdb
+C:\Users\PINK_RAIN\Dropbox\UPDATE THESIS\17122014\kinect_control_usbdevice\Kinect_Control_USBDevice\bin\Debug\ZedGraph.xml
+C:\Users\PINK_RAIN\Dropbox\UPDATE THESIS\17122014\kinect_control_usbdevice\Kinect_Control_USBDevice\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\PINK_RAIN\Dropbox\UPDATE THESIS\17122014\kinect_control_usbdevice\Kinect_Control_USBDevice\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\PINK_RAIN\Dropbox\UPDATE THESIS\17122014\kinect_control_usbdevice\Kinect_Control_USBDevice\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\PINK_RAIN\Dropbox\UPDATE THESIS\17122014\kinect_control_usbdevice\Kinect_Control_USBDevice\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\PINK_RAIN\Dropbox\UPDATE THESIS\17122014\kinect_control_usbdevice\Kinect_Control_USBDevice\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\PINK_RAIN\Dropbox\UPDATE THESIS\17122014\kinect_control_usbdevice\Kinect_Control_USBDevice\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\PINK_RAIN\Dropbox\UPDATE THESIS\17122014\kinect_control_usbdevice\Kinect_Control_USBDevice\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\PINK_RAIN\Dropbox\UPDATE THESIS\17122014\kinect_control_usbdevice\Kinect_Control_USBDevice\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\PINK_RAIN\Dropbox\UPDATE THESIS\17122014\kinect_control_usbdevice\Kinect_Control_USBDevice\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\PINK_RAIN\Dropbox\UPDATE THESIS\17122014\kinect_control_usbdevice\Kinect_Control_USBDevice\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\PINK_RAIN\Dropbox\UPDATE THESIS\17122014\kinect_control_usbdevice\Kinect_Control_USBDevice\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\PINK_RAIN\Dropbox\UPDATE THESIS\17122014\kinect_control_usbdevice\Kinect_Control_USBDevice\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\PINK_RAIN\Dropbox\UPDATE THESIS\17122014\kinect_control_usbdevice\Kinect_Control_USBDevice\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\PINK_RAIN\Dropbox\UPDATE THESIS\17122014\kinect_control_usbdevice\Kinect_Control_USBDevice\obj\Debug\Kinect_Control_USBDevice.csprojResolveAssemblyReference.cache
+C:\Users\PINK_RAIN\Dropbox\UPDATE THESIS\17122014\kinect_control_usbdevice\Kinect_Control_USBDevice\obj\Debug\Datagrid.baml
+C:\Users\PINK_RAIN\Dropbox\UPDATE THESIS\17122014\kinect_control_usbdevice\Kinect_Control_USBDevice\obj\Debug\frAbout.baml
+C:\Users\PINK_RAIN\Dropbox\UPDATE THESIS\17122014\kinect_control_usbdevice\Kinect_Control_USBDevice\obj\Debug\MainWindow.baml
+C:\Users\PINK_RAIN\Dropbox\UPDATE THESIS\17122014\kinect_control_usbdevice\Kinect_Control_USBDevice\obj\Debug\Datagrid.g.cs
+C:\Users\PINK_RAIN\Dropbox\UPDATE THESIS\17122014\kinect_control_usbdevice\Kinect_Control_USBDevice\obj\Debug\frAbout.g.cs
+C:\Users\PINK_RAIN\Dropbox\UPDATE THESIS\17122014\kinect_control_usbdevice\Kinect_Control_USBDevice\obj\Debug\MainWindow.g.cs
+C:\Users\PINK_RAIN\Dropbox\UPDATE THESIS\17122014\kinect_control_usbdevice\Kinect_Control_USBDevice\obj\Debug\App.g.cs
+C:\Users\PINK_RAIN\Dropbox\UPDATE THESIS\17122014\kinect_control_usbdevice\Kinect_Control_USBDevice\obj\Debug\Kinect_Control_USBDevice_MarkupCompile.cache
+C:\Users\PINK_RAIN\Dropbox\UPDATE THESIS\17122014\kinect_control_usbdevice\Kinect_Control_USBDevice\obj\Debug\Kinect_Control_USBDevice.g.resources
+C:\Users\PINK_RAIN\Dropbox\UPDATE THESIS\17122014\kinect_control_usbdevice\Kinect_Control_USBDevice\obj\Debug\Kinect_Control_USBDevice.Graph.resources
+C:\Users\PINK_RAIN\Dropbox\UPDATE THESIS\17122014\kinect_control_usbdevice\Kinect_Control_USBDevice\obj\Debug\Kinect_Control_USBDevice.Properties.Resources.resources
+C:\Users\PINK_RAIN\Dropbox\UPDATE THESIS\17122014\kinect_control_usbdevice\Kinect_Control_USBDevice\obj\Debug\Kinect_Control_USBDevice.csproj.GenerateResource.Cache
+E:\Codes Thesis\Final Code\18-12\Kinect_Control_USBDevice\bin\Debug\Kinect_Control_USBDevice.exe.config
+E:\Codes Thesis\Final Code\18-12\Kinect_Control_USBDevice\obj\Debug\Kinect_Control_USBDevice.csproj.ResolveComReference.cache
+E:\Codes Thesis\Final Code\18-12\Kinect_Control_USBDevice\obj\Debug\Kinect_Control_USBDevice.exe
+E:\Codes Thesis\Final Code\18-12\Kinect_Control_USBDevice\obj\Debug\Kinect_Control_USBDevice.pdb
+E:\Codes Thesis\Final Code\18-12\Kinect_Control_USBDevice\bin\Debug\Kinect_Control_USBDevice.exe
+E:\Codes Thesis\Final Code\18-12\Kinect_Control_USBDevice\bin\Debug\Kinect_Control_USBDevice.pdb
+E:\Codes Thesis\Final Code\18-12\Kinect_Control_USBDevice\bin\Debug\Kinect.Toolbox.dll
+E:\Codes Thesis\Final Code\18-12\Kinect_Control_USBDevice\bin\Debug\Microsoft.Xna.Framework.dll
+E:\Codes Thesis\Final Code\18-12\Kinect_Control_USBDevice\bin\Debug\SharpDX.dll
+E:\Codes Thesis\Final Code\18-12\Kinect_Control_USBDevice\bin\Debug\usbGenericHidCommunications.dll
+E:\Codes Thesis\Final Code\18-12\Kinect_Control_USBDevice\bin\Debug\usbGenericHidCommunications.pdb
+E:\Codes Thesis\Final Code\18-12\Kinect_Control_USBDevice\obj\Debug\Datagrid.baml
+E:\Codes Thesis\Final Code\18-12\Kinect_Control_USBDevice\obj\Debug\frAbout.baml
+E:\Codes Thesis\Final Code\18-12\Kinect_Control_USBDevice\obj\Debug\MainWindow.baml
+E:\Codes Thesis\Final Code\18-12\Kinect_Control_USBDevice\obj\Debug\Datagrid.g.cs
+E:\Codes Thesis\Final Code\18-12\Kinect_Control_USBDevice\obj\Debug\frAbout.g.cs
+E:\Codes Thesis\Final Code\18-12\Kinect_Control_USBDevice\obj\Debug\MainWindow.g.cs
+E:\Codes Thesis\Final Code\18-12\Kinect_Control_USBDevice\obj\Debug\App.g.cs
+E:\Codes Thesis\Final Code\18-12\Kinect_Control_USBDevice\obj\Debug\Kinect_Control_USBDevice_MarkupCompile.cache
+E:\Codes Thesis\Final Code\18-12\Kinect_Control_USBDevice\obj\Debug\Kinect_Control_USBDevice.g.resources
+E:\Codes Thesis\Final Code\18-12\Kinect_Control_USBDevice\obj\Debug\Kinect_Control_USBDevice.Graph.resources
+E:\Codes Thesis\Final Code\18-12\Kinect_Control_USBDevice\obj\Debug\Kinect_Control_USBDevice.Properties.Resources.resources
+E:\Codes Thesis\Final Code\18-12\Kinect_Control_USBDevice\obj\Debug\Kinect_Control_USBDevice.csproj.GenerateResource.Cache
+E:\Codes Thesis\Final Code\18-12\Kinect_Control_USBDevice\obj\Debug\Kinect_Control_USBDevice.csprojResolveAssemblyReference.cache
+C:\Users\PINK_RAIN\Dropbox\UPDATE THESIS\19-12\18-12\Kinect_Control_USBDevice\bin\Debug\Kinect_Control_USBDevice.exe.config
+C:\Users\PINK_RAIN\Dropbox\UPDATE THESIS\19-12\18-12\Kinect_Control_USBDevice\obj\Debug\Kinect_Control_USBDevice.csproj.ResolveComReference.cache
+C:\Users\PINK_RAIN\Dropbox\UPDATE THESIS\19-12\18-12\Kinect_Control_USBDevice\obj\Debug\Kinect_Control_USBDevice.exe
+C:\Users\PINK_RAIN\Dropbox\UPDATE THESIS\19-12\18-12\Kinect_Control_USBDevice\obj\Debug\Kinect_Control_USBDevice.pdb
+C:\Users\PINK_RAIN\Dropbox\UPDATE THESIS\19-12\18-12\Kinect_Control_USBDevice\bin\Debug\Kinect_Control_USBDevice.exe
+C:\Users\PINK_RAIN\Dropbox\UPDATE THESIS\19-12\18-12\Kinect_Control_USBDevice\bin\Debug\Kinect_Control_USBDevice.pdb
+C:\Users\PINK_RAIN\Dropbox\UPDATE THESIS\19-12\18-12\Kinect_Control_USBDevice\bin\Debug\Kinect.Toolbox.dll
+C:\Users\PINK_RAIN\Dropbox\UPDATE THESIS\19-12\18-12\Kinect_Control_USBDevice\bin\Debug\Microsoft.Xna.Framework.dll
+C:\Users\PINK_RAIN\Dropbox\UPDATE THESIS\19-12\18-12\Kinect_Control_USBDevice\bin\Debug\SharpDX.dll
+C:\Users\PINK_RAIN\Dropbox\UPDATE THESIS\19-12\18-12\Kinect_Control_USBDevice\bin\Debug\usbGenericHidCommunications.dll
+C:\Users\PINK_RAIN\Dropbox\UPDATE THESIS\19-12\18-12\Kinect_Control_USBDevice\bin\Debug\ZedGraph.dll
+C:\Users\PINK_RAIN\Dropbox\UPDATE THESIS\19-12\18-12\Kinect_Control_USBDevice\bin\Debug\usbGenericHidCommunications.pdb
+C:\Users\PINK_RAIN\Dropbox\UPDATE THESIS\19-12\18-12\Kinect_Control_USBDevice\bin\Debug\ZedGraph.xml
+C:\Users\PINK_RAIN\Dropbox\UPDATE THESIS\19-12\18-12\Kinect_Control_USBDevice\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\PINK_RAIN\Dropbox\UPDATE THESIS\19-12\18-12\Kinect_Control_USBDevice\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\PINK_RAIN\Dropbox\UPDATE THESIS\19-12\18-12\Kinect_Control_USBDevice\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\PINK_RAIN\Dropbox\UPDATE THESIS\19-12\18-12\Kinect_Control_USBDevice\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\PINK_RAIN\Dropbox\UPDATE THESIS\19-12\18-12\Kinect_Control_USBDevice\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\PINK_RAIN\Dropbox\UPDATE THESIS\19-12\18-12\Kinect_Control_USBDevice\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\PINK_RAIN\Dropbox\UPDATE THESIS\19-12\18-12\Kinect_Control_USBDevice\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\PINK_RAIN\Dropbox\UPDATE THESIS\19-12\18-12\Kinect_Control_USBDevice\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\PINK_RAIN\Dropbox\UPDATE THESIS\19-12\18-12\Kinect_Control_USBDevice\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\PINK_RAIN\Dropbox\UPDATE THESIS\19-12\18-12\Kinect_Control_USBDevice\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\PINK_RAIN\Dropbox\UPDATE THESIS\19-12\18-12\Kinect_Control_USBDevice\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\PINK_RAIN\Dropbox\UPDATE THESIS\19-12\18-12\Kinect_Control_USBDevice\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\PINK_RAIN\Dropbox\UPDATE THESIS\19-12\18-12\Kinect_Control_USBDevice\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\PINK_RAIN\Dropbox\UPDATE THESIS\19-12\18-12\Kinect_Control_USBDevice\obj\Debug\Kinect_Control_USBDevice.csprojResolveAssemblyReference.cache
+C:\Users\PINK_RAIN\Dropbox\UPDATE THESIS\19-12\18-12\Kinect_Control_USBDevice\obj\Debug\Datagrid.baml
+C:\Users\PINK_RAIN\Dropbox\UPDATE THESIS\19-12\18-12\Kinect_Control_USBDevice\obj\Debug\frAbout.baml
+C:\Users\PINK_RAIN\Dropbox\UPDATE THESIS\19-12\18-12\Kinect_Control_USBDevice\obj\Debug\MainWindow.baml
+C:\Users\PINK_RAIN\Dropbox\UPDATE THESIS\19-12\18-12\Kinect_Control_USBDevice\obj\Debug\Datagrid.g.cs
+C:\Users\PINK_RAIN\Dropbox\UPDATE THESIS\19-12\18-12\Kinect_Control_USBDevice\obj\Debug\frAbout.g.cs
+C:\Users\PINK_RAIN\Dropbox\UPDATE THESIS\19-12\18-12\Kinect_Control_USBDevice\obj\Debug\MainWindow.g.cs
+C:\Users\PINK_RAIN\Dropbox\UPDATE THESIS\19-12\18-12\Kinect_Control_USBDevice\obj\Debug\App.g.cs
+C:\Users\PINK_RAIN\Dropbox\UPDATE THESIS\19-12\18-12\Kinect_Control_USBDevice\obj\Debug\Kinect_Control_USBDevice_MarkupCompile.cache
+C:\Users\PINK_RAIN\Dropbox\UPDATE THESIS\19-12\18-12\Kinect_Control_USBDevice\obj\Debug\Kinect_Control_USBDevice.g.resources
+C:\Users\PINK_RAIN\Dropbox\UPDATE THESIS\19-12\18-12\Kinect_Control_USBDevice\obj\Debug\Kinect_Control_USBDevice.Graph.resources
+C:\Users\PINK_RAIN\Dropbox\UPDATE THESIS\19-12\18-12\Kinect_Control_USBDevice\obj\Debug\Kinect_Control_USBDevice.Properties.Resources.resources
+C:\Users\PINK_RAIN\Dropbox\UPDATE THESIS\19-12\18-12\Kinect_Control_USBDevice\obj\Debug\Kinect_Control_USBDevice.csproj.GenerateResource.Cache
+E:\Codes Thesis\Final Code\19-12\Kinect_Control_USBDevice\bin\Debug\Kinect_Control_USBDevice.exe.config
+E:\Codes Thesis\Final Code\19-12\Kinect_Control_USBDevice\obj\Debug\Kinect_Control_USBDevice.csproj.ResolveComReference.cache
+E:\Codes Thesis\Final Code\19-12\Kinect_Control_USBDevice\obj\Debug\Kinect_Control_USBDevice.exe
+E:\Codes Thesis\Final Code\19-12\Kinect_Control_USBDevice\obj\Debug\Kinect_Control_USBDevice.pdb
+E:\Codes Thesis\Final Code\19-12\Kinect_Control_USBDevice\obj\Debug\Kinect_Control_USBDevice.csprojResolveAssemblyReference.cache
+E:\Codes Thesis\Final Code\19-12\Kinect_Control_USBDevice\obj\Debug\Datagrid.baml
+E:\Codes Thesis\Final Code\19-12\Kinect_Control_USBDevice\obj\Debug\frAbout.baml
+E:\Codes Thesis\Final Code\19-12\Kinect_Control_USBDevice\obj\Debug\MainWindow.baml
+E:\Codes Thesis\Final Code\19-12\Kinect_Control_USBDevice\obj\Debug\Datagrid.g.cs
+E:\Codes Thesis\Final Code\19-12\Kinect_Control_USBDevice\obj\Debug\frAbout.g.cs
+E:\Codes Thesis\Final Code\19-12\Kinect_Control_USBDevice\obj\Debug\MainWindow.g.cs
+E:\Codes Thesis\Final Code\19-12\Kinect_Control_USBDevice\obj\Debug\App.g.cs
+E:\Codes Thesis\Final Code\19-12\Kinect_Control_USBDevice\obj\Debug\Kinect_Control_USBDevice_MarkupCompile.cache
+E:\Codes Thesis\Final Code\19-12\Kinect_Control_USBDevice\obj\Debug\Kinect_Control_USBDevice.g.resources
+E:\Codes Thesis\Final Code\19-12\Kinect_Control_USBDevice\obj\Debug\Kinect_Control_USBDevice.Graph.resources
+E:\Codes Thesis\Final Code\19-12\Kinect_Control_USBDevice\obj\Debug\Kinect_Control_USBDevice.Properties.Resources.resources
+E:\Codes Thesis\Final Code\19-12\Kinect_Control_USBDevice\obj\Debug\Kinect_Control_USBDevice.csproj.GenerateResource.Cache
+E:\Codes Thesis\Final Code\19-12\Kinect_Control_USBDevice\bin\Debug\Kinect_Control_USBDevice.exe
+E:\Codes Thesis\Final Code\19-12\Kinect_Control_USBDevice\bin\Debug\Kinect_Control_USBDevice.pdb
+E:\Codes Thesis\Final Code\19-12\Kinect_Control_USBDevice\bin\Debug\Kinect.Toolbox.dll
+E:\Codes Thesis\Final Code\19-12\Kinect_Control_USBDevice\bin\Debug\Microsoft.Xna.Framework.dll
+E:\Codes Thesis\Final Code\19-12\Kinect_Control_USBDevice\bin\Debug\SharpDX.dll
+E:\Codes Thesis\Final Code\19-12\Kinect_Control_USBDevice\bin\Debug\usbGenericHidCommunications.dll
+E:\Codes Thesis\Final Code\19-12\Kinect_Control_USBDevice\bin\Debug\usbGenericHidCommunications.pdb
+E:\Codes Thesis\Final Code\19-12\Kinect_Control_USBDevice\bin\Debug\ZedGraph.xml
+E:\Codes Thesis\Final Code\19-12\Kinect_Control_USBDevice\bin\Debug\de\ZedGraph.resources.dll
+E:\Codes Thesis\Final Code\19-12\Kinect_Control_USBDevice\bin\Debug\es\ZedGraph.resources.dll
+E:\Codes Thesis\Final Code\19-12\Kinect_Control_USBDevice\bin\Debug\fr\ZedGraph.resources.dll
+E:\Codes Thesis\Final Code\19-12\Kinect_Control_USBDevice\bin\Debug\hu\ZedGraph.resources.dll
+E:\Codes Thesis\Final Code\19-12\Kinect_Control_USBDevice\bin\Debug\it\ZedGraph.resources.dll
+E:\Codes Thesis\Final Code\19-12\Kinect_Control_USBDevice\bin\Debug\ja\ZedGraph.resources.dll
+E:\Codes Thesis\Final Code\19-12\Kinect_Control_USBDevice\bin\Debug\pt\ZedGraph.resources.dll
+E:\Codes Thesis\Final Code\19-12\Kinect_Control_USBDevice\bin\Debug\ru\ZedGraph.resources.dll
+E:\Codes Thesis\Final Code\19-12\Kinect_Control_USBDevice\bin\Debug\sk\ZedGraph.resources.dll
+E:\Codes Thesis\Final Code\19-12\Kinect_Control_USBDevice\bin\Debug\sv\ZedGraph.resources.dll
+E:\Codes Thesis\Final Code\19-12\Kinect_Control_USBDevice\bin\Debug\tr\ZedGraph.resources.dll
+E:\Codes Thesis\Final Code\19-12\Kinect_Control_USBDevice\bin\Debug\zh-cn\ZedGraph.resources.dll
+E:\Codes Thesis\Final Code\19-12\Kinect_Control_USBDevice\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\PINK_RAIN\Downloads\19-12\19-12\Kinect_Control_USBDevice\bin\Debug\Kinect_Control_USBDevice.exe.config
+C:\Users\PINK_RAIN\Downloads\19-12\19-12\Kinect_Control_USBDevice\obj\Debug\Kinect_Control_USBDevice.csproj.ResolveComReference.cache
+C:\Users\PINK_RAIN\Downloads\19-12\19-12\Kinect_Control_USBDevice\obj\Debug\Kinect_Control_USBDevice.exe
+C:\Users\PINK_RAIN\Downloads\19-12\19-12\Kinect_Control_USBDevice\obj\Debug\Kinect_Control_USBDevice.pdb
+C:\Users\PINK_RAIN\Downloads\19-12\19-12\Kinect_Control_USBDevice\bin\Debug\Kinect_Control_USBDevice.exe
+C:\Users\PINK_RAIN\Downloads\19-12\19-12\Kinect_Control_USBDevice\bin\Debug\Kinect_Control_USBDevice.pdb
+C:\Users\PINK_RAIN\Downloads\19-12\19-12\Kinect_Control_USBDevice\bin\Debug\Kinect.Toolbox.dll
+C:\Users\PINK_RAIN\Downloads\19-12\19-12\Kinect_Control_USBDevice\bin\Debug\Microsoft.Xna.Framework.dll
+C:\Users\PINK_RAIN\Downloads\19-12\19-12\Kinect_Control_USBDevice\bin\Debug\SharpDX.dll
+C:\Users\PINK_RAIN\Downloads\19-12\19-12\Kinect_Control_USBDevice\bin\Debug\usbGenericHidCommunications.dll
+C:\Users\PINK_RAIN\Downloads\19-12\19-12\Kinect_Control_USBDevice\bin\Debug\ZedGraph.dll
+C:\Users\PINK_RAIN\Downloads\19-12\19-12\Kinect_Control_USBDevice\bin\Debug\usbGenericHidCommunications.pdb
+C:\Users\PINK_RAIN\Downloads\19-12\19-12\Kinect_Control_USBDevice\bin\Debug\ZedGraph.xml
+C:\Users\PINK_RAIN\Downloads\19-12\19-12\Kinect_Control_USBDevice\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\PINK_RAIN\Downloads\19-12\19-12\Kinect_Control_USBDevice\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\PINK_RAIN\Downloads\19-12\19-12\Kinect_Control_USBDevice\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\PINK_RAIN\Downloads\19-12\19-12\Kinect_Control_USBDevice\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\PINK_RAIN\Downloads\19-12\19-12\Kinect_Control_USBDevice\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\PINK_RAIN\Downloads\19-12\19-12\Kinect_Control_USBDevice\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\PINK_RAIN\Downloads\19-12\19-12\Kinect_Control_USBDevice\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\PINK_RAIN\Downloads\19-12\19-12\Kinect_Control_USBDevice\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\PINK_RAIN\Downloads\19-12\19-12\Kinect_Control_USBDevice\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\PINK_RAIN\Downloads\19-12\19-12\Kinect_Control_USBDevice\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\PINK_RAIN\Downloads\19-12\19-12\Kinect_Control_USBDevice\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\PINK_RAIN\Downloads\19-12\19-12\Kinect_Control_USBDevice\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\PINK_RAIN\Downloads\19-12\19-12\Kinect_Control_USBDevice\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\PINK_RAIN\Downloads\19-12\19-12\Kinect_Control_USBDevice\obj\Debug\Kinect_Control_USBDevice.csprojResolveAssemblyReference.cache
+C:\Users\PINK_RAIN\Downloads\19-12\19-12\Kinect_Control_USBDevice\obj\Debug\Datagrid.baml
+C:\Users\PINK_RAIN\Downloads\19-12\19-12\Kinect_Control_USBDevice\obj\Debug\frAbout.baml
+C:\Users\PINK_RAIN\Downloads\19-12\19-12\Kinect_Control_USBDevice\obj\Debug\MainWindow.baml
+C:\Users\PINK_RAIN\Downloads\19-12\19-12\Kinect_Control_USBDevice\obj\Debug\Datagrid.g.cs
+C:\Users\PINK_RAIN\Downloads\19-12\19-12\Kinect_Control_USBDevice\obj\Debug\frAbout.g.cs
+C:\Users\PINK_RAIN\Downloads\19-12\19-12\Kinect_Control_USBDevice\obj\Debug\MainWindow.g.cs
+C:\Users\PINK_RAIN\Downloads\19-12\19-12\Kinect_Control_USBDevice\obj\Debug\App.g.cs
+C:\Users\PINK_RAIN\Downloads\19-12\19-12\Kinect_Control_USBDevice\obj\Debug\Kinect_Control_USBDevice_MarkupCompile.cache
+C:\Users\PINK_RAIN\Downloads\19-12\19-12\Kinect_Control_USBDevice\obj\Debug\Kinect_Control_USBDevice.g.resources
+C:\Users\PINK_RAIN\Downloads\19-12\19-12\Kinect_Control_USBDevice\obj\Debug\Kinect_Control_USBDevice.Graph.resources
+C:\Users\PINK_RAIN\Downloads\19-12\19-12\Kinect_Control_USBDevice\obj\Debug\Kinect_Control_USBDevice.Properties.Resources.resources
+C:\Users\PINK_RAIN\Downloads\19-12\19-12\Kinect_Control_USBDevice\obj\Debug\Kinect_Control_USBDevice.csproj.GenerateResource.Cache
+C:\Users\PINK_RAIN\Dropbox\UPDATE THESIS\DISC THESIC\19-12\Kinect_Control_USBDevice\bin\Debug\Kinect_Control_USBDevice.exe.config
+C:\Users\PINK_RAIN\Dropbox\UPDATE THESIS\DISC THESIC\19-12\Kinect_Control_USBDevice\obj\Debug\Kinect_Control_USBDevice.csproj.ResolveComReference.cache
+C:\Users\PINK_RAIN\Dropbox\UPDATE THESIS\DISC THESIC\19-12\Kinect_Control_USBDevice\obj\Debug\Kinect_Control_USBDevice.exe
+C:\Users\PINK_RAIN\Dropbox\UPDATE THESIS\DISC THESIC\19-12\Kinect_Control_USBDevice\obj\Debug\Kinect_Control_USBDevice.pdb
+C:\Users\PINK_RAIN\Dropbox\UPDATE THESIS\DISC THESIC\19-12\Kinect_Control_USBDevice\bin\Debug\Kinect_Control_USBDevice.exe
+C:\Users\PINK_RAIN\Dropbox\UPDATE THESIS\DISC THESIC\19-12\Kinect_Control_USBDevice\bin\Debug\Kinect_Control_USBDevice.pdb
+C:\Users\PINK_RAIN\Dropbox\UPDATE THESIS\DISC THESIC\19-12\Kinect_Control_USBDevice\bin\Debug\Kinect.Toolbox.dll
+C:\Users\PINK_RAIN\Dropbox\UPDATE THESIS\DISC THESIC\19-12\Kinect_Control_USBDevice\bin\Debug\Microsoft.Xna.Framework.dll
+C:\Users\PINK_RAIN\Dropbox\UPDATE THESIS\DISC THESIC\19-12\Kinect_Control_USBDevice\bin\Debug\SharpDX.dll
+C:\Users\PINK_RAIN\Dropbox\UPDATE THESIS\DISC THESIC\19-12\Kinect_Control_USBDevice\bin\Debug\usbGenericHidCommunications.dll
+C:\Users\PINK_RAIN\Dropbox\UPDATE THESIS\DISC THESIC\19-12\Kinect_Control_USBDevice\bin\Debug\ZedGraph.dll
+C:\Users\PINK_RAIN\Dropbox\UPDATE THESIS\DISC THESIC\19-12\Kinect_Control_USBDevice\bin\Debug\usbGenericHidCommunications.pdb
+C:\Users\PINK_RAIN\Dropbox\UPDATE THESIS\DISC THESIC\19-12\Kinect_Control_USBDevice\bin\Debug\ZedGraph.xml
+C:\Users\PINK_RAIN\Dropbox\UPDATE THESIS\DISC THESIC\19-12\Kinect_Control_USBDevice\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\PINK_RAIN\Dropbox\UPDATE THESIS\DISC THESIC\19-12\Kinect_Control_USBDevice\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\PINK_RAIN\Dropbox\UPDATE THESIS\DISC THESIC\19-12\Kinect_Control_USBDevice\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\PINK_RAIN\Dropbox\UPDATE THESIS\DISC THESIC\19-12\Kinect_Control_USBDevice\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\PINK_RAIN\Dropbox\UPDATE THESIS\DISC THESIC\19-12\Kinect_Control_USBDevice\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\PINK_RAIN\Dropbox\UPDATE THESIS\DISC THESIC\19-12\Kinect_Control_USBDevice\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\PINK_RAIN\Dropbox\UPDATE THESIS\DISC THESIC\19-12\Kinect_Control_USBDevice\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\PINK_RAIN\Dropbox\UPDATE THESIS\DISC THESIC\19-12\Kinect_Control_USBDevice\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\PINK_RAIN\Dropbox\UPDATE THESIS\DISC THESIC\19-12\Kinect_Control_USBDevice\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\PINK_RAIN\Dropbox\UPDATE THESIS\DISC THESIC\19-12\Kinect_Control_USBDevice\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\PINK_RAIN\Dropbox\UPDATE THESIS\DISC THESIC\19-12\Kinect_Control_USBDevice\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\PINK_RAIN\Dropbox\UPDATE THESIS\DISC THESIC\19-12\Kinect_Control_USBDevice\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\PINK_RAIN\Dropbox\UPDATE THESIS\DISC THESIC\19-12\Kinect_Control_USBDevice\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\PINK_RAIN\Dropbox\UPDATE THESIS\DISC THESIC\19-12\Kinect_Control_USBDevice\obj\Debug\Kinect_Control_USBDevice.csprojResolveAssemblyReference.cache
+C:\Users\PINK_RAIN\Dropbox\UPDATE THESIS\DISC THESIC\19-12\Kinect_Control_USBDevice\obj\Debug\Datagrid.baml
+C:\Users\PINK_RAIN\Dropbox\UPDATE THESIS\DISC THESIC\19-12\Kinect_Control_USBDevice\obj\Debug\frAbout.baml
+C:\Users\PINK_RAIN\Dropbox\UPDATE THESIS\DISC THESIC\19-12\Kinect_Control_USBDevice\obj\Debug\MainWindow.baml
+C:\Users\PINK_RAIN\Dropbox\UPDATE THESIS\DISC THESIC\19-12\Kinect_Control_USBDevice\obj\Debug\Datagrid.g.cs
+C:\Users\PINK_RAIN\Dropbox\UPDATE THESIS\DISC THESIC\19-12\Kinect_Control_USBDevice\obj\Debug\frAbout.g.cs
+C:\Users\PINK_RAIN\Dropbox\UPDATE THESIS\DISC THESIC\19-12\Kinect_Control_USBDevice\obj\Debug\MainWindow.g.cs
+C:\Users\PINK_RAIN\Dropbox\UPDATE THESIS\DISC THESIC\19-12\Kinect_Control_USBDevice\obj\Debug\App.g.cs
+C:\Users\PINK_RAIN\Dropbox\UPDATE THESIS\DISC THESIC\19-12\Kinect_Control_USBDevice\obj\Debug\Kinect_Control_USBDevice_MarkupCompile.cache
+C:\Users\PINK_RAIN\Dropbox\UPDATE THESIS\DISC THESIC\19-12\Kinect_Control_USBDevice\obj\Debug\Kinect_Control_USBDevice.g.resources
+C:\Users\PINK_RAIN\Dropbox\UPDATE THESIS\DISC THESIC\19-12\Kinect_Control_USBDevice\obj\Debug\Kinect_Control_USBDevice.Graph.resources
+C:\Users\PINK_RAIN\Dropbox\UPDATE THESIS\DISC THESIC\19-12\Kinect_Control_USBDevice\obj\Debug\Kinect_Control_USBDevice.Properties.Resources.resources
+C:\Users\PINK_RAIN\Dropbox\UPDATE THESIS\DISC THESIC\19-12\Kinect_Control_USBDevice\obj\Debug\Kinect_Control_USBDevice.csproj.GenerateResource.Cache
+C:\Users\PINK_RAIN\Dropbox\UPDATE THESIS\SCOROBOT AND KINECT CONTROL\Code C#\Kinect_Control_USBDevice\bin\Debug\Kinect_Control_USBDevice.exe.config
+C:\Users\PINK_RAIN\Dropbox\UPDATE THESIS\SCOROBOT AND KINECT CONTROL\Code C#\Kinect_Control_USBDevice\obj\Debug\Kinect_Control_USBDevice.csproj.ResolveComReference.cache
+C:\Users\PINK_RAIN\Dropbox\UPDATE THESIS\SCOROBOT AND KINECT CONTROL\Code C#\Kinect_Control_USBDevice\obj\Debug\Kinect_Control_USBDevice.exe
+C:\Users\PINK_RAIN\Dropbox\UPDATE THESIS\SCOROBOT AND KINECT CONTROL\Code C#\Kinect_Control_USBDevice\obj\Debug\Kinect_Control_USBDevice.pdb
+C:\Users\PINK_RAIN\Dropbox\UPDATE THESIS\SCOROBOT AND KINECT CONTROL\Code C#\Kinect_Control_USBDevice\bin\Debug\Kinect_Control_USBDevice.exe
+C:\Users\PINK_RAIN\Dropbox\UPDATE THESIS\SCOROBOT AND KINECT CONTROL\Code C#\Kinect_Control_USBDevice\bin\Debug\Kinect_Control_USBDevice.pdb
+C:\Users\PINK_RAIN\Dropbox\UPDATE THESIS\SCOROBOT AND KINECT CONTROL\Code C#\Kinect_Control_USBDevice\bin\Debug\Kinect.Toolbox.dll
+C:\Users\PINK_RAIN\Dropbox\UPDATE THESIS\SCOROBOT AND KINECT CONTROL\Code C#\Kinect_Control_USBDevice\bin\Debug\Microsoft.Xna.Framework.dll
+C:\Users\PINK_RAIN\Dropbox\UPDATE THESIS\SCOROBOT AND KINECT CONTROL\Code C#\Kinect_Control_USBDevice\bin\Debug\SharpDX.dll
+C:\Users\PINK_RAIN\Dropbox\UPDATE THESIS\SCOROBOT AND KINECT CONTROL\Code C#\Kinect_Control_USBDevice\bin\Debug\usbGenericHidCommunications.dll
+C:\Users\PINK_RAIN\Dropbox\UPDATE THESIS\SCOROBOT AND KINECT CONTROL\Code C#\Kinect_Control_USBDevice\bin\Debug\ZedGraph.dll
+C:\Users\PINK_RAIN\Dropbox\UPDATE THESIS\SCOROBOT AND KINECT CONTROL\Code C#\Kinect_Control_USBDevice\bin\Debug\usbGenericHidCommunications.pdb
+C:\Users\PINK_RAIN\Dropbox\UPDATE THESIS\SCOROBOT AND KINECT CONTROL\Code C#\Kinect_Control_USBDevice\bin\Debug\ZedGraph.xml
+C:\Users\PINK_RAIN\Dropbox\UPDATE THESIS\SCOROBOT AND KINECT CONTROL\Code C#\Kinect_Control_USBDevice\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\PINK_RAIN\Dropbox\UPDATE THESIS\SCOROBOT AND KINECT CONTROL\Code C#\Kinect_Control_USBDevice\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\PINK_RAIN\Dropbox\UPDATE THESIS\SCOROBOT AND KINECT CONTROL\Code C#\Kinect_Control_USBDevice\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\PINK_RAIN\Dropbox\UPDATE THESIS\SCOROBOT AND KINECT CONTROL\Code C#\Kinect_Control_USBDevice\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\PINK_RAIN\Dropbox\UPDATE THESIS\SCOROBOT AND KINECT CONTROL\Code C#\Kinect_Control_USBDevice\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\PINK_RAIN\Dropbox\UPDATE THESIS\SCOROBOT AND KINECT CONTROL\Code C#\Kinect_Control_USBDevice\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\PINK_RAIN\Dropbox\UPDATE THESIS\SCOROBOT AND KINECT CONTROL\Code C#\Kinect_Control_USBDevice\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\PINK_RAIN\Dropbox\UPDATE THESIS\SCOROBOT AND KINECT CONTROL\Code C#\Kinect_Control_USBDevice\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\PINK_RAIN\Dropbox\UPDATE THESIS\SCOROBOT AND KINECT CONTROL\Code C#\Kinect_Control_USBDevice\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\PINK_RAIN\Dropbox\UPDATE THESIS\SCOROBOT AND KINECT CONTROL\Code C#\Kinect_Control_USBDevice\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\PINK_RAIN\Dropbox\UPDATE THESIS\SCOROBOT AND KINECT CONTROL\Code C#\Kinect_Control_USBDevice\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\PINK_RAIN\Dropbox\UPDATE THESIS\SCOROBOT AND KINECT CONTROL\Code C#\Kinect_Control_USBDevice\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\PINK_RAIN\Dropbox\UPDATE THESIS\SCOROBOT AND KINECT CONTROL\Code C#\Kinect_Control_USBDevice\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\PINK_RAIN\Dropbox\UPDATE THESIS\SCOROBOT AND KINECT CONTROL\Code C#\Kinect_Control_USBDevice\obj\Debug\Kinect_Control_USBDevice.csprojResolveAssemblyReference.cache
+C:\Users\PINK_RAIN\Dropbox\UPDATE THESIS\SCOROBOT AND KINECT CONTROL\Code C#\Kinect_Control_USBDevice\obj\Debug\Datagrid.baml
+C:\Users\PINK_RAIN\Dropbox\UPDATE THESIS\SCOROBOT AND KINECT CONTROL\Code C#\Kinect_Control_USBDevice\obj\Debug\frAbout.baml
+C:\Users\PINK_RAIN\Dropbox\UPDATE THESIS\SCOROBOT AND KINECT CONTROL\Code C#\Kinect_Control_USBDevice\obj\Debug\MainWindow.baml
+C:\Users\PINK_RAIN\Dropbox\UPDATE THESIS\SCOROBOT AND KINECT CONTROL\Code C#\Kinect_Control_USBDevice\obj\Debug\Datagrid.g.cs
+C:\Users\PINK_RAIN\Dropbox\UPDATE THESIS\SCOROBOT AND KINECT CONTROL\Code C#\Kinect_Control_USBDevice\obj\Debug\frAbout.g.cs
+C:\Users\PINK_RAIN\Dropbox\UPDATE THESIS\SCOROBOT AND KINECT CONTROL\Code C#\Kinect_Control_USBDevice\obj\Debug\MainWindow.g.cs
+C:\Users\PINK_RAIN\Dropbox\UPDATE THESIS\SCOROBOT AND KINECT CONTROL\Code C#\Kinect_Control_USBDevice\obj\Debug\App.g.cs
+C:\Users\PINK_RAIN\Dropbox\UPDATE THESIS\SCOROBOT AND KINECT CONTROL\Code C#\Kinect_Control_USBDevice\obj\Debug\Kinect_Control_USBDevice_MarkupCompile.cache
+C:\Users\PINK_RAIN\Dropbox\UPDATE THESIS\SCOROBOT AND KINECT CONTROL\Code C#\Kinect_Control_USBDevice\obj\Debug\Kinect_Control_USBDevice.g.resources
+C:\Users\PINK_RAIN\Dropbox\UPDATE THESIS\SCOROBOT AND KINECT CONTROL\Code C#\Kinect_Control_USBDevice\obj\Debug\Kinect_Control_USBDevice.Graph.resources
+C:\Users\PINK_RAIN\Dropbox\UPDATE THESIS\SCOROBOT AND KINECT CONTROL\Code C#\Kinect_Control_USBDevice\obj\Debug\Kinect_Control_USBDevice.Properties.Resources.resources
+C:\Users\PINK_RAIN\Dropbox\UPDATE THESIS\SCOROBOT AND KINECT CONTROL\Code C#\Kinect_Control_USBDevice\obj\Debug\Kinect_Control_USBDevice.csproj.GenerateResource.Cache
+E:\SCOROBOT AND KINECT CONTROL\Code C#\Kinect_Control_USBDevice\bin\Debug\Kinect_Control_USBDevice.exe.config
+E:\SCOROBOT AND KINECT CONTROL\Code C#\Kinect_Control_USBDevice\obj\Debug\Kinect_Control_USBDevice.csproj.ResolveComReference.cache
+E:\SCOROBOT AND KINECT CONTROL\Code C#\Kinect_Control_USBDevice\obj\Debug\Kinect_Control_USBDevice.exe
+E:\SCOROBOT AND KINECT CONTROL\Code C#\Kinect_Control_USBDevice\obj\Debug\Kinect_Control_USBDevice.pdb
+E:\SCOROBOT AND KINECT CONTROL\Code C#\Kinect_Control_USBDevice\bin\Debug\Kinect_Control_USBDevice.exe
+E:\SCOROBOT AND KINECT CONTROL\Code C#\Kinect_Control_USBDevice\bin\Debug\Kinect_Control_USBDevice.pdb
+E:\SCOROBOT AND KINECT CONTROL\Code C#\Kinect_Control_USBDevice\bin\Debug\Kinect.Toolbox.dll
+E:\SCOROBOT AND KINECT CONTROL\Code C#\Kinect_Control_USBDevice\bin\Debug\Microsoft.Xna.Framework.dll
+E:\SCOROBOT AND KINECT CONTROL\Code C#\Kinect_Control_USBDevice\bin\Debug\SharpDX.dll
+E:\SCOROBOT AND KINECT CONTROL\Code C#\Kinect_Control_USBDevice\bin\Debug\usbGenericHidCommunications.dll
+E:\SCOROBOT AND KINECT CONTROL\Code C#\Kinect_Control_USBDevice\bin\Debug\ZedGraph.dll
+E:\SCOROBOT AND KINECT CONTROL\Code C#\Kinect_Control_USBDevice\bin\Debug\usbGenericHidCommunications.pdb
+E:\SCOROBOT AND KINECT CONTROL\Code C#\Kinect_Control_USBDevice\bin\Debug\ZedGraph.xml
+E:\SCOROBOT AND KINECT CONTROL\Code C#\Kinect_Control_USBDevice\bin\Debug\de\ZedGraph.resources.dll
+E:\SCOROBOT AND KINECT CONTROL\Code C#\Kinect_Control_USBDevice\bin\Debug\es\ZedGraph.resources.dll
+E:\SCOROBOT AND KINECT CONTROL\Code C#\Kinect_Control_USBDevice\bin\Debug\fr\ZedGraph.resources.dll
+E:\SCOROBOT AND KINECT CONTROL\Code C#\Kinect_Control_USBDevice\bin\Debug\hu\ZedGraph.resources.dll
+E:\SCOROBOT AND KINECT CONTROL\Code C#\Kinect_Control_USBDevice\bin\Debug\it\ZedGraph.resources.dll
+E:\SCOROBOT AND KINECT CONTROL\Code C#\Kinect_Control_USBDevice\bin\Debug\ja\ZedGraph.resources.dll
+E:\SCOROBOT AND KINECT CONTROL\Code C#\Kinect_Control_USBDevice\bin\Debug\pt\ZedGraph.resources.dll
+E:\SCOROBOT AND KINECT CONTROL\Code C#\Kinect_Control_USBDevice\bin\Debug\ru\ZedGraph.resources.dll
+E:\SCOROBOT AND KINECT CONTROL\Code C#\Kinect_Control_USBDevice\bin\Debug\sk\ZedGraph.resources.dll
+E:\SCOROBOT AND KINECT CONTROL\Code C#\Kinect_Control_USBDevice\bin\Debug\sv\ZedGraph.resources.dll
+E:\SCOROBOT AND KINECT CONTROL\Code C#\Kinect_Control_USBDevice\bin\Debug\tr\ZedGraph.resources.dll
+E:\SCOROBOT AND KINECT CONTROL\Code C#\Kinect_Control_USBDevice\bin\Debug\zh-cn\ZedGraph.resources.dll
+E:\SCOROBOT AND KINECT CONTROL\Code C#\Kinect_Control_USBDevice\bin\Debug\zh-tw\ZedGraph.resources.dll
+E:\SCOROBOT AND KINECT CONTROL\Code C#\Kinect_Control_USBDevice\obj\Debug\Kinect_Control_USBDevice.csprojResolveAssemblyReference.cache
+E:\SCOROBOT AND KINECT CONTROL\Code C#\Kinect_Control_USBDevice\obj\Debug\Datagrid.baml
+E:\SCOROBOT AND KINECT CONTROL\Code C#\Kinect_Control_USBDevice\obj\Debug\frAbout.baml
+E:\SCOROBOT AND KINECT CONTROL\Code C#\Kinect_Control_USBDevice\obj\Debug\MainWindow.baml
+E:\SCOROBOT AND KINECT CONTROL\Code C#\Kinect_Control_USBDevice\obj\Debug\Datagrid.g.cs
+E:\SCOROBOT AND KINECT CONTROL\Code C#\Kinect_Control_USBDevice\obj\Debug\frAbout.g.cs
+E:\SCOROBOT AND KINECT CONTROL\Code C#\Kinect_Control_USBDevice\obj\Debug\MainWindow.g.cs
+E:\SCOROBOT AND KINECT CONTROL\Code C#\Kinect_Control_USBDevice\obj\Debug\App.g.cs
+E:\SCOROBOT AND KINECT CONTROL\Code C#\Kinect_Control_USBDevice\obj\Debug\Kinect_Control_USBDevice_MarkupCompile.cache
+E:\SCOROBOT AND KINECT CONTROL\Code C#\Kinect_Control_USBDevice\obj\Debug\Kinect_Control_USBDevice.g.resources
+E:\SCOROBOT AND KINECT CONTROL\Code C#\Kinect_Control_USBDevice\obj\Debug\Kinect_Control_USBDevice.Graph.resources
+E:\SCOROBOT AND KINECT CONTROL\Code C#\Kinect_Control_USBDevice\obj\Debug\Kinect_Control_USBDevice.Properties.Resources.resources
+E:\SCOROBOT AND KINECT CONTROL\Code C#\Kinect_Control_USBDevice\obj\Debug\Kinect_Control_USBDevice.csproj.GenerateResource.Cache
+E:\Code bao ve luan van\Code C#\Kinect_Control_USBDevice\bin\Debug\Kinect_Control_USBDevice.exe.config
+E:\Code bao ve luan van\Code C#\Kinect_Control_USBDevice\obj\Debug\Kinect_Control_USBDevice.csproj.ResolveComReference.cache
+E:\Code bao ve luan van\Code C#\Kinect_Control_USBDevice\obj\Debug\Kinect_Control_USBDevice.exe
+E:\Code bao ve luan van\Code C#\Kinect_Control_USBDevice\obj\Debug\Kinect_Control_USBDevice.pdb

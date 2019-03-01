@@ -1,0 +1,27 @@
+﻿<Window x:Class="Kinect_Control_USBDevice.frAbout"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="frAbout" Height="400" Width="300">
+    <Grid>
+        <Image Name="logobk" Height="123" VerticalAlignment="Top" Width="123" Source="E:\Codes Thesis\Final Code\7-12\kinect_control_usbdevice\RESOURCE\logobk 8x8.png" HorizontalAlignment="Center"/>
+        <RichTextBox Name="rtb1" HorizontalAlignment="Center" Height="227" Margin="10,0" VerticalAlignment="Bottom" Width="272">
+            <FlowDocument>
+                <Paragraph>
+                    <Run Text="SCOROBOT CONTROL BY GCODE AND KINECT XBOX 360" />
+                </Paragraph>
+                <Paragraph>
+                    <Run Text="Introduction: Nguyen Trong Tai" />
+                </Paragraph>
+                <Paragraph>
+                    <Run Text="Student: Nguyen Tran Duong Hong Vu 
+                         Class: DD10TD01 Student code:41004066"/>
+                </Paragraph>
+                <Paragraph>
+                    <Run Text="Student: Vu Nhat Minh         
+                         Class: DD10KSTD Student code:41001988"/>
+                </Paragraph>
+            </FlowDocument>
+        </RichTextBox>
+
+    </Grid>
+</Window>

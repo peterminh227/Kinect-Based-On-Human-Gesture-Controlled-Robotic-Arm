@@ -1,0 +1,248 @@
+<html>
+<body>
+<pre>
+<h1>µVision Build Log</h1>
+<h2>Project:</h2>
+E:\Code bao ve luan van\29122014\SCOROBOT_ARM_KINECT\KEILC\Scorobot_Kinect.uvproj
+Project File Date:  12/10/2014
+
+<h2>Output:</h2>
+Build target 'Scorobot'
+linking...
+Program Size: Code=45308 RO-data=464 RW-data=596 ZI-data=4340  
+".\Scorobot_Kinect.axf" - 0 Error(s), 0 Warning(s).
+Load "E:\\Code bao ve luan van\\29122014\\SCOROBOT_ARM_KINECT\\KEILC\\Scorobot_Kinect.axf" 
+Error: Flash Download failed  -  Target DLL has been cancelled
+Load "E:\\Code bao ve luan van\\29122014\\SCOROBOT_ARM_KINECT\\KEILC\\Scorobot_Kinect.axf" 
+Error: Flash Download failed  -  Target DLL has been cancelled
+Load "E:\\Code bao ve luan van\\29122014\\SCOROBOT_ARM_KINECT\\KEILC\\Scorobot_Kinect.axf" 
+Error: Flash Download failed  -  Target DLL has been cancelled
+Load "E:\\Code bao ve luan van\\29122014\\SCOROBOT_ARM_KINECT\\KEILC\\Scorobot_Kinect.axf" 
+Erase Done.
+Programming Done.
+Verify OK.
+</pre>
+</body>
+</html>
+95-D: Deprecated declaration TIM6_DAC_IRQHandler - give arg types
+  extern  void TIM6_DAC_IRQHandler();
+scr\main.c: 8 warnings, 0 errors
+compiling stm32f4_discovery.c...
+compiling stm32f4xx_it.c...
+compiling usb_bsp.c...
+compiling usbd_desc.c...
+compiling usbd_usr.c...
+compiling USB_HID.c...
+.\pid\Pid.h(32): warning:  #1-D: last line of file ends without a newline
+  #endif
+USB_HID\USB_HID.h(29): warning:  #1295-D: Deprecated declaration send_usb - give arg types
+  void send_usb();
+USB_HID\USB_HID.h(40): warning:  #1-D: last line of file ends without a newline
+  #endif
+.\str\SCOROBOT_INVERSE.h(12): warning:  #1-D: last line of file ends without a newline
+  #endif
+.\str\caculator_setpoint.h(34): warning:  #1-D: last line of file ends without a newline
+  #endif
+.\pid\systick.h(11): warning:  #1-D: last line of file ends without a newline
+  #endif
+.\pid\Sensor.h(64): warning:  #1-D: last line of file ends without a newline
+  #endif
+USB_HID\USB_HID.c(82): warning:  #177-D: variable "Kp_temp" was declared but never referenced
+        uint32_t Kp_temp=0,Ki_temp=0,Kd_temp=0,Speed_ADC=0;
+USB_HID\USB_HID.c(82): warning:  #177-D: variable "Ki_temp" was declared but never referenced
+        uint32_t Kp_temp=0,Ki_temp=0,Kd_temp=0,Speed_ADC=0;
+USB_HID\USB_HID.c(82): warning:  #177-D: variable "Kd_temp" was declared but never referenced
+        uint32_t Kp_temp=0,Ki_temp=0,Kd_temp=0,Speed_ADC=0;
+USB_HID\USB_HID.c(82): warning:  #177-D: variable "Speed_ADC" was declared but never referenced
+        uint32_t Kp_temp=0,Ki_temp=0,Kd_temp=0,Speed_ADC=0;
+USB_HID\USB_HID.c(84): warning:  #177-D: variable "SetPoint" was declared but never referenced
+        int16_t SetPoint;
+USB_HID\USB_HID.c: 12 warnings, 0 errors
+compiling systick.c...
+pid\systick.h(11): warning:  #1-D: last line of file ends without a newline
+  #endif
+pid\systick.c: 1 warning, 0 errors
+compiling Inverse_Kinematic.c...
+str\Inverse_Kinematic.h(18): warning:  #1-D: last line of file ends without a newline
+  #endif
+str\Inverse_Kinematic.c(27): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+        Radian=deg*0.0174533;
+str\Inverse_Kinematic.c(34): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+        Deg=(float)(Radian*57.2958);
+str\Inverse_Kinematic.c(85): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+         elbowpuse=(int32_t)(elb_angle_dn*212.78);
+str\Inverse_Kinematic.c(86): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+         basepuse=(int32_t)(base_angle_d*188.89);
+str\Inverse_Kinematic.c(89): warning:  #223-D: function "Cal_PID_ELBOW_Position" declared implicitly
+         Cal_PID_ELBOW_Position(elbowpuse);
+str\Inverse_Kinematic.c(90): warning:  #223-D: function "Cal_PID_Base_Position" declared implicitly
+         Cal_PID_Base_Position(basepuse);
+str\Inverse_Kinematic.c: 7 warnings, 0 errors
+compiling SCOROBOT_INVERSE.c...
+str\SCOROBOT_INVERSE.h(12): warning:  #1-D: last line of file ends without a newline
+  #endif
+str\SCOROBOT_INVERSE.c(17): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+        Radian=Deg*0.0174533;
+str\SCOROBOT_INVERSE.c(23): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+        Deg=(float)(Rad*57.2958);
+str\SCOROBOT_INVERSE.c: 3 warnings, 0 errors
+compiling caculator_setpoint.c...
+.\pid\Pid.h(32): warning:  #1-D: last line of file ends without a newline
+  #endif
+.\pid\Sensor.h(64): warning:  #1-D: last line of file ends without a newline
+  #endif
+.\USB_HID\USB_HID.h(29): warning:  #1295-D: Deprecated declaration send_usb - give arg types
+  void send_usb();
+.\USB_HID\USB_HID.h(40): warning:  #1-D: last line of file ends without a newline
+  #endif
+str\caculator_setpoint.h(34): warning:  #1-D: last line of file ends without a newline
+  #endif
+str\caculator_setpoint.c(94): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+                x1=(float)(setpoint_previous+0.5*a1*tim_index*tim_index);
+str\caculator_setpoint.c(108): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+                x3=(float)(x2+0.5*a3*(tim_index-2*period/3)*(tim_index-2*period/3)+v03*(tim_index-2*period/3));
+str\caculator_setpoint.c(130): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+                x1=(float)(setpoint_previous-0.5*a1*tim_index*tim_index);
+str\caculator_setpoint.c(143): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+                x3=(float)(x2-0.5*a3*(tim_index-2*period/3)*(tim_index-2*period/3)-v03*(tim_index-2*period/3));
+str\caculator_setpoint.c(173): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+                CAL_BASE.x1=(float)(CAL_BASE.setpoint_previous+0.5*CAL_BASE.a1*CAL_BASE.timer_counter*CAL_BASE.timer_counter);
+str\caculator_setpoint.c(188): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+                CAL_BASE.x3=(float)(CAL_BASE.x2+0.5*CAL_BASE.a3*(CAL_BASE.timer_counter-2*period3/3)*(CAL_BASE.timer_counter-2*period3/3)+CAL_BASE.v03*(CAL_BASE.timer_counter-2*period3/3));
+str\caculator_setpoint.c(204): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+                CAL_BASE.x1=(float)(CAL_BASE.setpoint_previous-0.5*CAL_BASE.a1*CAL_BASE.timer_counter*CAL_BASE.timer_counter);
+str\caculator_setpoint.c(218): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+                CAL_BASE.x3=(float)(CAL_BASE.x2+0.5*CAL_BASE.a3*(CAL_BASE.timer_counter-2*period3/3)*(CAL_BASE.timer_counter-2*period3/3)-CAL_BASE.v03*(CAL_BASE.timer_counter-2*period3/3));
+str\caculator_setpoint.c(298): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+          CAL_SHOULDER.a1=(float)(CAL_SHOULDER.maxspeed*3*period_1);
+str\caculator_setpoint.c(300): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+                CAL_SHOULDER.x1=(float)(CAL_SHOULDER.setpoint_previous+0.5*CAL_SHOULDER.a1*CAL_SHOULDER.timer_counter*CAL_SHOULDER.timer_counter);
+str\caculator_setpoint.c(313): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+          CAL_SHOULDER.a3=(float)(-CAL_SHOULDER.maxspeed*3*period_1);
+str\caculator_setpoint.c(315): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+                CAL_SHOULDER.x3=(float)(CAL_SHOULDER.x2+0.5*CAL_SHOULDER.a3*(CAL_SHOULDER.timer_counter-period*0.666667)*(CAL_SHOULDER.timer_counter-period*0.666667)+CAL_SHOULDER.v03*(CAL_SHOULDER.timer_counter-period*0.666667));
+str\caculator_setpoint.c(329): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+          CAL_SHOULDER.a1=(float)(CAL_SHOULDER.maxspeed*3*period_1);
+str\caculator_setpoint.c(331): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+                CAL_SHOULDER.x1=(float)(CAL_SHOULDER.setpoint_previous-0.5*CAL_SHOULDER.a1*CAL_SHOULDER.timer_counter*CAL_SHOULDER.timer_counter);
+str\caculator_setpoint.c(343): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+          CAL_SHOULDER.a3=(float)(CAL_SHOULDER.maxspeed*3*period_1);
+str\caculator_setpoint.c(345): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+                CAL_SHOULDER.x3=(float)(CAL_SHOULDER.x2+0.5*CAL_SHOULDER.a3*(CAL_SHOULDER.timer_counter-period*0.666667)*(CAL_SHOULDER.timer_counter-period*0.666667)-CAL_SHOULDER.v03*(CAL_SHOULDER.timer_counter-period*0.666667));
+str\caculator_setpoint.c(371): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+          CAL_ELBOW.a1=(float)(CAL_ELBOW.maxspeed*3*period_2);
+str\caculator_setpoint.c(373): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+                CAL_ELBOW.x1=(float)(CAL_ELBOW.setpoint_previous+0.5*CAL_ELBOW.a1*CAL_ELBOW.timer_counter*CAL_ELBOW.timer_counter);
+str\caculator_setpoint.c(386): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+          CAL_ELBOW.a3=(float)(-CAL_ELBOW.maxspeed*3*period_2);
+str\caculator_setpoint.c(388): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+                CAL_ELBOW.x3=(float)(CAL_ELBOW.x2+0.5*CAL_ELBOW.a3*(CAL_ELBOW.timer_counter-period2*0.666667)*(CAL_ELBOW.timer_counter-period2*0.666667)+CAL_ELBOW.v03*(CAL_ELBOW.timer_counter-period2*0.666667));
+str\caculator_setpoint.c(402): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+          CAL_ELBOW.a1=(float)(CAL_ELBOW.maxspeed*3*period_2);
+str\caculator_setpoint.c(404): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+                CAL_ELBOW.x1=(float)(CAL_ELBOW.setpoint_previous-0.5*CAL_ELBOW.a1*CAL_ELBOW.timer_counter*CAL_ELBOW.timer_counter);
+str\caculator_setpoint.c(416): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+          CAL_ELBOW.a3=(float)(CAL_ELBOW.maxspeed*3*period_2);
+str\caculator_setpoint.c(418): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+                CAL_ELBOW.x3=(float)(CAL_ELBOW.x2+0.5*CAL_ELBOW.a3*(CAL_ELBOW.timer_counter-period2*0.666667)*(CAL_ELBOW.timer_counter-period2*0.666667)-CAL_ELBOW.v03*(CAL_ELBOW.timer_counter-period2*0.666667));
+str\caculator_setpoint.c(439): warning:  #1-D: last line of file ends without a newline
+  }
+str\caculator_setpoint.c: 30 warnings, 0 errors
+compiling Debug_Timer.c...
+.\pid\Pid.h(32): warning:  #1-D: last line of file ends without a newline
+  #endif
+.\pid\Sensor.h(64): warning:  #1-D: last line of file ends without a newline
+  #endif
+.\USB_HID\USB_HID.h(29): warning:  #1295-D: Deprecated declaration send_usb - give arg types
+  void send_usb();
+.\USB_HID\USB_HID.h(40): warning:  #1-D: last line of file ends without a newline
+  #endif
+str\caculator_setpoint.h(34): warning:  #1-D: last line of file ends without a newline
+  #endif
+str\Debug_Timer.c(52): warning:  #1-D: last line of file ends without a newline
+  }
+str\Debug_Timer.c: 6 warnings, 0 errors
+compiling system_stm32f4xx.c...
+compiling usbd_hid_core.c...
+.\str\caculator_setpoint.h(34): warning:  #1-D: last line of file ends without a newline
+  #endif
+.\USB_HID\USB_HID.h(29): warning:  #1295-D: Deprecated declaration send_usb - give arg types
+  void send_usb();
+.\USB_HID\USB_HID.h(40): warning:  #1-D: last line of file ends without a newline
+  #endif
+..\STM32_USB_Device_Library\Class\hid_custom\src\usbd_hid_core.c(486): warning:  #550-D: variable "USB_Rx_Cnt" was set but never used
+  uint16_t USB_Rx_Cnt;
+..\STM32_USB_Device_Library\Class\hid_custom\src\usbd_hid_core.c: 4 warnings, 0 errors
+compiling usbd_core.c...
+compiling usbd_ioreq.c...
+compiling usbd_req.c...
+compiling usb_core.c...
+compiling usb_dcd.c...
+compiling usb_dcd_int.c...
+compiling misc.c...
+compiling stm32f4xx_crc.c...
+compiling stm32f4xx_cryp.c...
+compiling stm32f4xx_dcmi.c...
+compiling stm32f4xx_dma.c...
+compiling stm32f4xx_exti.c...
+compiling stm32f4xx_flash.c...
+compiling stm32f4xx_gpio.c...
+compiling stm32f4xx_rcc.c...
+compiling stm32f4xx_spi.c...
+compiling stm32f4xx_syscfg.c...
+compiling stm32f4xx_tim.c...
+compiling stm32f4xx_usart.c...
+compiling stm32f4xx_wwdg.c...
+compiling stm32f4xx_adc.c...
+compiling Motor.c...
+compiling Pid.c...
+pid\Pid.h(32): warning:  #1-D: last line of file ends without a newline
+  #endif
+pid\Sensor.h(64): warning:  #1-D: last line of file ends without a newline
+  #endif
+.\str\caculator_setpoint.h(34): warning:  #1-D: last line of file ends without a newline
+  #endif
+pid\Pid.c(50): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+      PID_BASE_MOTOR.a0=(PID_BASE_MOTOR.Kp+PID_BASE_MOTOR.Ki*0.01/2+PID_BASE_MOTOR.Kd*100 );
+pid\Pid.c(51): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+                PID_BASE_MOTOR.a1 =(-PID_BASE_MOTOR.Kp+PID_BASE_MOTOR.Ki *0.01/2-2*PID_BASE_MOTOR.Kd*100 );
+pid\Pid.c(77): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+      PID_ELBOW_MOTOR.a0=(PID_ELBOW_MOTOR.Kp+PID_ELBOW_MOTOR.Ki*0.01/2+PID_ELBOW_MOTOR.Kd*100 );
+pid\Pid.c(78): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+                PID_ELBOW_MOTOR.a1 =(-PID_ELBOW_MOTOR.Kp+PID_ELBOW_MOTOR.Ki *0.01/2-2*PID_ELBOW_MOTOR.Kd*100 );
+pid\Pid.c(116): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+      PID_SHOULDER_MOTOR.a0=(PID_SHOULDER_MOTOR.Kp+PID_SHOULDER_MOTOR.Ki*0.01/2+PID_SHOULDER_MOTOR.Kd*100 );
+pid\Pid.c(117): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+                PID_SHOULDER_MOTOR.a1 =(-PID_SHOULDER_MOTOR.Kp+PID_SHOULDER_MOTOR.Ki *0.01/2-2*PID_SHOULDER_MOTOR.Kd*100 );
+pid\Pid.c: 9 warnings, 0 errors
+compiling Sample_PID.c...
+pid\Pid.h(32): warning:  #1-D: last line of file ends without a newline
+  #endif
+pid\Sensor.h(64): warning:  #1-D: last line of file ends without a newline
+  #endif
+.\USB_HID\USB_HID.h(29): warning:  #1295-D: Deprecated declaration send_usb - give arg types
+  void send_usb();
+.\USB_HID\USB_HID.h(40): warning:  #1-D: last line of file ends without a newline
+  #endif
+.\str\caculator_setpoint.h(34): warning:  #1-D: last line of file ends without a newline
+  #endif
+pid\Sample_PID.c(272): warning:  #1-D: last line of file ends without a newline
+  }     
+pid\Sample_PID.c: 6 warnings, 0 errors
+compiling Sensor.c...
+pid\Sensor.h(64): warning:  #1-D: last line of file ends without a newline
+  #endif
+pid\Sensor.c(279): warning:  #1-D: last line of file ends without a newline
+   }
+pid\Sensor.c: 2 warnings, 0 errors
+compiling Structure.c...
+pid\Structure.c(13): warning:  #1-D: last line of file ends without a newline
+  ADC_CommonInitTypeDef ADC_CommonInitStructure;
+pid\Structure.c: 1 warning, 0 errors
+linking...
+Program Size: Code=45308 RO-data=464 RW-data=596 ZI-data=4340  
+".\Scorobot_Kinect.axf" - 0 Error(s), 89 Warning(s).
+Load "E:\\Code bao ve luan van\\29122014\\SCOROBOT_ARM_KINECT\\KEILC\\Scorobot_Kinect.axf" 
+Erase Done.
+Programming Done.
+Verify OK.

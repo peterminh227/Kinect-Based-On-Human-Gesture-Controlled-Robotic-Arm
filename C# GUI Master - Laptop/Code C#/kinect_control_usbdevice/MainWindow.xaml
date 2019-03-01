@@ -1,0 +1,260 @@
+﻿<Window x:Class="Kinect_Control_USBDevice.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Loaded="Window_Loaded"
+        Closing="Window_Closing"        
+        WindowState="Normal"    
+        Title="Control Scorobot" Height="700" Width="1338" MinHeight="700" MinWidth="1350" MaxHeight="700" MaxWidth="1300">
+    <Window.Resources>
+        <Style TargetType="{x:Type TextBlock}">
+            <Setter Property="FontFamily" Value="Segoe UI"/>
+            <Setter Property="FontSize" Value="20"/>
+            <Setter Property="Foreground" Value="#FF999999"/>
+        </Style>
+        <Style TargetType="{x:Type Button}">
+            <Setter Property="FontFamily" Value="Segoe UI"/>
+            <Setter Property="FontSize" Value="20"/>
+            <Setter Property="Width" Value="200"/>
+        </Style>
+        <Style TargetType="{x:Type CheckBox}">
+            <Setter Property="FontFamily" Value="Segoe UI"/>
+            <Setter Property="FontSize" Value="20"/>
+        </Style>
+    </Window.Resources>
+    <Grid Background="{DynamicResource {x:Static SystemColors.ControlLightBrushKey}}" Margin="0,0,-8,0" HorizontalAlignment="Left" Width="1350">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="663"/>
+            <ColumnDefinition Width="250"/>
+            <ColumnDefinition Width="253"/>
+            <ColumnDefinition Width="22"/>
+            <ColumnDefinition/>
+            <ColumnDefinition Width="51*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="300"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="100"/>
+            <RowDefinition Height="30"/>
+            <RowDefinition Height="100"/>
+            <RowDefinition Height="70"/>
+        </Grid.RowDefinitions>
+        <Rectangle Grid.RowSpan="7" Grid.ColumnSpan="2" Margin="0,0,249,0" Fill="{DynamicResource {x:Static SystemColors.GradientInactiveCaptionBrushKey}}"/>
+        <Viewbox Margin="5,10,4,5" Grid.RowSpan="6">
+            <Grid Width="640" Height="480" ClipToBounds="True">
+                <Image x:Name="kinectDisplay" Source="{Binding Bitmap}"/>
+                <Canvas x:Name="kinectCanvas"/>
+                <Canvas x:Name="gesturesCanvas"/>
+                <Rectangle Stroke="Black" StrokeThickness="1"/>
+            </Grid>
+        </Viewbox>
+        <TextBlock Text="COMMANDS" Margin="550,3,4,277" FontSize="16" Grid.Row="1"/>
+
+
+
+        <TextBlock Text="Debug Information" Grid.Row="5" Margin="445,62,4,12" FontWeight="Bold" Background="#FF1DFF00"/>
+        <Border BorderBrush="DarkSlateBlue"  Background="Salmon" BorderThickness="2" Margin="445,94,0,6" Grid.Row="5" HorizontalAlignment="Left" Width="214" Grid.RowSpan="2">
+
+            <TextBox x:Name="debugTextbox" TextWrapping="Wrap" ScrollViewer.CanContentScroll="True" Background="AliceBlue" ScrollViewer.VerticalScrollBarVisibility="Visible" ScrollViewer.HorizontalScrollBarVisibility="Visible" FontSize="20" Grid.Column="1" Grid.Row="3" UndoLimit="99" MaxLines="222262" AllowDrop="False" AcceptsReturn="True" Margin="0,8,8,8"/>
+
+        </Border>
+        <StackPanel Grid.Row="6" Margin="332,36,331,35" HorizontalAlignment="Center" VerticalAlignment="Center" Height="0" Width="0">
+            <StackPanel Orientation="Horizontal" />
+        </StackPanel>
+        <TextBlock Text="STABILITIES" Grid.Column="5" Grid.Row="3" Margin="486,19,-606,51" Background="#FF00FF1E" />
+        <ListBox x:Name="stabilitiesList" FontSize="20" Grid.Column="5" Grid.Row="3" Margin="486,92,-615,71" SelectionChanged="stabilitiesList_SelectionChanged" Grid.RowSpan="3">
+            <ListBox.ItemTemplate>
+                <DataTemplate>
+                    <StackPanel Orientation="Horizontal">
+                        <TextBlock Text="{Binding Key}"/>
+                        <TextBlock Text=": "/>
+                        <TextBlock Text="{Binding Value}"/>
+                    </StackPanel>
+                </DataTemplate>
+            </ListBox.ItemTemplate>
+        </ListBox>
+        <Button Content="View Depth" Margin="240,0,223,0" HorizontalAlignment="Center" VerticalAlignment="Top"  Click="Button_Click" x:Name="viewButton" Height="27" FontSize="15" Grid.Row="1"/>
+        <Label x:Name="toolStripStatusLabelUSB" Content="USB Status unknow" HorizontalAlignment="Left" Margin="10,24,0,0" VerticalAlignment="Top" Height="37" Width="193" FontSize="20" BorderThickness="0,3,0,0" Background="#FF2EEC10" Grid.Row="6" />
+        <Label x:Name="toolStripStatusLabelMachine" Content="Machine Status unknow" HorizontalAlignment="Left" Margin="208,24,0,0" VerticalAlignment="Top" Width="227" Height="37" FontSize="20" Background="#FFF31A1A" BorderThickness="0,3,0,0" Grid.Row="6"/>
+        <Rectangle x:Name="audioBeamAngle" Margin="110,80,331,0" Grid.Row="5">
+            <Rectangle.Fill>
+                <LinearGradientBrush StartPoint="0,0" EndPoint="1, 0">
+                    <LinearGradientBrush.GradientStops>
+                        <GradientStopCollection>
+                            <GradientStop Offset="0" Color="Black"/>
+                            <GradientStop Offset="{Binding BeamAngle}" Color="Orange"/>
+                            <GradientStop Offset="1" Color="Black"/>
+                        </GradientStopCollection>
+                    </LinearGradientBrush.GradientStops>
+                </LinearGradientBrush>
+            </Rectangle.Fill>
+        </Rectangle>
+        <Button x:Name="Pb_Auto_Manual" Click="Pb_Auto_Manual_Click"  Grid.Column="1" HorizontalAlignment="Left" Height="86" Margin="69,167,0,0" Grid.Row="1" VerticalAlignment="Top" Width="125"  FontWeight="Bold">
+            <Button.Content>
+                <Image Source="Image_file\Waiting.png" Width="60" Height="60" Opacity="0.5"/>
+            </Button.Content>
+        </Button>
+        <Menu Height="26" HorizontalAlignment="Left" Name="menu1" VerticalAlignment="Top" Width="653" Margin="1,0,0,0">
+            <MenuItem Header="File " Name="Menu1" >
+                <MenuItem Header="Open" Name="Open" Click="OpenMenuStrip_Click">
+                    <MenuItem.Icon>
+                        <Image Source="Image_file\Open-icon.png" Height="30" Width="30"></Image>
+                    </MenuItem.Icon>
+                </MenuItem>
+                <MenuItem Header="Reload G-code" Name="Reload" Click="ReloadMenuStrip_Click">
+                    <MenuItem.Icon>
+                        <Image Source="Image_file\Reload_icon.jpg" Height="30" Width="30"></Image>
+                    </MenuItem.Icon>
+                </MenuItem>
+                <MenuItem Header="Edit G-Code" Name="Edit" Click="EditdMenuStrip_Click">
+                    <MenuItem.Icon>
+                        <Image Source="Image_file\Edit_icon.jpg" Height="30" Width="30"></Image>
+                    </MenuItem.Icon>
+                </MenuItem>
+                <MenuItem Header="Import Excel" Name="ImportExcel" Click="exportxlsToolStripMenuItem_Click">
+                    <MenuItem.Icon>
+                        <Image Source="Image_file\excel-icon.png" Height="30" Width="30"></Image>
+                    </MenuItem.Icon>
+                </MenuItem>
+                <Separator/>
+                <MenuItem Header=" Exit" Name="Exit" Click="Exit_Click">
+                    <MenuItem.Icon>
+                        <Image Source="Image_file\Quit_Icon.jpg" Height="30" Width="30"></Image>
+                    </MenuItem.Icon>
+                </MenuItem>
+            </MenuItem>
+            <MenuItem Header="Machine " Name="Menu2">
+                <MenuItem Header="Start" Name="Start_Gcode" Click="Start_Gcode_Click">
+                    <MenuItem.Icon>
+                        <Image Source="Image_file\Start_icon.jpg" Height="30" Width="30"
+></Image>
+                    </MenuItem.Icon>
+                </MenuItem>
+                <MenuItem Header="Stop" Name="Stop_Gcode" Click="Stop_Gcode_Click">
+                    <MenuItem.Icon>
+                        <Image Source="Image_file\Stop_Icon.jpg" Height="30" Width="30"
+></Image>
+                    </MenuItem.Icon>
+                </MenuItem>
+
+                <MenuItem Header="Graph" Name="Drawing_Response" Click="Drawing_Response_click">
+                    <MenuItem.Icon>
+                        <Image Source="Image_file\draw.jpg" Width="30" Height="30"></Image>
+                    </MenuItem.Icon>
+                </MenuItem>
+            </MenuItem>
+            <MenuItem Header="Help" Name="Menu3">
+                <MenuItem Header="Help" Name="mHelp"></MenuItem>
+                <MenuItem Header="About" Name="mAbout" Click="About_Click"></MenuItem>
+                <MenuItem Header="Contact Online" Name="mContack"></MenuItem>
+            </MenuItem>
+        </Menu>
+
+
+        <Button x:Name="Pb_Emergency" Click="Emergency_Click" Grid.Column="1" HorizontalAlignment="Left" Height="60" Margin="93,267,0,0" Grid.Row="1" VerticalAlignment="Top" Width="60" RenderTransformOrigin="0.651,0.509" Grid.RowSpan="2">
+            <Button.Content>
+                <Image Source="Image_file\Emegency_stop.jpg" Width="60" Height="60"></Image>
+            </Button.Content>
+        </Button>
+        <Button x:Name="Pb_Home"  Grid.Column="1" HorizontalAlignment="Left" Height="60" Margin="173,267,0,0" Grid.Row="1" VerticalAlignment="Top" Width="62" Click="Pb_Home_Click" Grid.RowSpan="2">
+            <Button.Content>
+                <Image Source="Image_file\Home_Icon.jpg" Height="60" Width="60"></Image>
+            </Button.Content>
+        </Button>
+
+
+        <Button x:Name="Pb_Send" Click="Pb_Send_Click" Grid.Column="1" HorizontalAlignment="Left" Height="60" Margin="21,4,0,0" Grid.Row="1" VerticalAlignment="Top" Width="60">
+            <Button.Content>
+                <Image Source="Image_file\Hand_icon.png " Height="60" Width="60"></Image>
+            </Button.Content>
+        </Button>
+
+        <Button x:Name="Pb_SendXYZ" Click="Pb_SendXYZ_Click" Grid.Column="1" HorizontalAlignment="Left" Height="60" Margin="21,76,0,0" Grid.Row="1" VerticalAlignment="Top" Width="60">
+            <Button.Content>
+                <Image Source="Image_file\codinate_icon.png" Height="60" Width="60"></Image>
+            </Button.Content>
+        </Button>
+
+        <Border BorderBrush="BlueViolet" BorderThickness="3" Margin="93,4,7,258" Grid.Row="1" Grid.Column="1">
+            <TextBox x:Name="Sendmanual" Background="AliceBlue" Grid.Column="1" TextWrapping="Wrap" Margin="4,3"/>
+        </Border>
+        <Border BorderBrush="BlueViolet" BorderThickness="3" Margin="93,76,7,186" Grid.Row="1" Grid.Column="1">
+            <TextBox x:Name="Sendcoordinates" Background="AliceBlue" Grid.Column="1" TextWrapping="Wrap" Margin="4,3"/>
+        </Border>
+        <Button x:Name="Pb_Debug"  Grid.Column="1" HorizontalAlignment="Left" Height="60" Margin="20,267,0,0" Grid.Row="1" VerticalAlignment="Top" Width="60" Click="Pb_Debug_Click" Grid.RowSpan="2">
+            <Button.Content>
+                <Image Source="Image_file\debug.png" Width="60" Height="60">
+                </Image>
+            </Button.Content>
+        </Button>
+        <TextBox x:Name="testing" Grid.Column="5" HorizontalAlignment="Left" Height="136" Margin="529,30,-322,0" Grid.Row="1" TextWrapping="Wrap" VerticalAlignment="Top" Width="99"/>
+        <Border Width="262" Background="Coral" BorderBrush="RoyalBlue" BorderThickness="4" HorizontalAlignment="Left" Height="324" Margin="157,308,0,0" VerticalAlignment="Top" Grid.RowSpan="6" Grid.Column="2" Grid.ColumnSpan="4" Grid.Row="1" >
+            <RichTextBox x:Name="richTextBoxGCode" Grid.Column="2" HorizontalAlignment="Left" Height="260" Margin="10,45,0,0" Grid.Row="1" VerticalAlignment="Top" Width="233" SelectionChanged="richTextBoxGCode_SelectionChanged" BorderThickness="2" Background="AliceBlue" Unloaded="richTextBoxGCode_Unloaded">
+                <FlowDocument/>
+            </RichTextBox>
+        </Border>
+
+        <TextBox x:Name="right_hipangle" Grid.Column="5" HorizontalAlignment="Left" Height="23" Margin="526,220,-322,0" Grid.Row="1" TextWrapping="Wrap" VerticalAlignment="Top" Width="102"/>
+        <TextBox x:Name="right_elbowangle" Grid.Column="5" HorizontalAlignment="Left" Height="23" Margin="529,248,-325,0" Grid.Row="1" TextWrapping="Wrap" VerticalAlignment="Top" Width="102"/>
+        <TextBox x:Name="right_gripangle" Grid.Column="5" HorizontalAlignment="Left" Height="23" Margin="529,298,-325,0" Grid.Row="1" TextWrapping="Wrap" VerticalAlignment="Top" Width="102" Grid.RowSpan="2"/>
+        <Label Content="G-Code Process" Grid.Column="2" HorizontalAlignment="Center" Margin="229,320,78,0" Grid.Row="1" VerticalAlignment="Top" Width="130" FontWeight="Bold" FontSize="16" Background="{DynamicResource {x:Static SystemColors.HighlightBrushKey}}" Foreground="#FFF9FF00" Grid.ColumnSpan="4" Grid.RowSpan="3"/>
+        <Button x:Name="pb_Set_Pulse_grid" HorizontalAlignment="Left" Height="60" Margin="35,188,0,0" Grid.Row="1" VerticalAlignment="Top" Width="60" Click="pb_Set_Pulse_Click" Grid.Column="2">
+            <Button.Content>
+                <Image Source="Image_file\setting.jpg " Width="60" Height="60"/>
+            </Button.Content>
+        </Button>
+        <Button x:Name="Pb_Dec_Puse_Base" Content="B-" FontWeight="Bold" Background="YellowGreen" Foreground="Red" HorizontalAlignment="Left" Height="50" Margin="32,24,0,0" VerticalAlignment="Top" Width="50" Grid.Column="2" Grid.RowSpan="2" PreviewMouseDown="Pb_Dec_Puse_Base_PreviewMouseDown" PreviewMouseUp="Pb_Dec_Puse_Base_PreviewMouseUp"/>
+        <Button x:Name="Pb_Inc_Puse_base" Content="B+" HorizontalAlignment="Left" FontWeight="Bold" Background="YellowGreen" Foreground="Red" Height="50" Margin="85,24,0,0" VerticalAlignment="Top" Width="50" Grid.Column="2" Grid.RowSpan="2" PreviewMouseDown="Pb_Inc_Puse_base_PreviewMouseDown" PreviewMouseUp="Pb_Inc_Puse_base_PreviewMouseUp"/>
+        <TextBox x:Name="txt_pulse_base" HorizontalAlignment="Left" Height="29" Margin="32,53,0,0" Grid.Row="1" TextWrapping="Wrap" VerticalAlignment="Top" Width="104" Grid.Column="2"/>
+        <Button x:Name="Pb_Dec_Puse_Shoulder" Content="S-" Background="Gold" Foreground="Red" FontWeight="Bold" HorizontalAlignment="Left" Height="50" Margin="32,87,0,0" Grid.Row="1" VerticalAlignment="Top" Width="50" Grid.Column="2" PreviewMouseDown="Pb_Dec_Puse_Shoulder_PreviewMouseDown" PreviewMouseUp="Pb_Dec_Puse_Shoulder_PreviewMouseUp"/>
+        <Button x:Name="Pb_Inc_Puse_Shoulder" Content="S+" Background="Gold" Foreground="Red" FontWeight="Bold" HorizontalAlignment="Left" Height="50" Margin="86,87,0,0" Grid.Row="1" VerticalAlignment="Top" Width="50" Grid.Column="2" PreviewMouseDown="Pb_Inc_Puse_Shoulder_PreviewMouseDown" PreviewMouseUp="Pb_Inc_Puse_Shoulder_PreviewMouseUp"/>
+        <Button x:Name="Pb_Dec_Pulse_Elbow" Background="Pink" Foreground="Green" FontWeight="Bold" Content="E-" Height="50" Margin="162,25,41,0" VerticalAlignment="Top" Width="Auto" Grid.Column="2" Grid.RowSpan="2" PreviewMouseDown="Pb_Dec_Pulse_Elbow_PreviewMouseDown" PreviewMouseUp="Pb_Dec_Pulse_Elbow_PreviewMouseUp"/>
+        <Button x:Name="Pb_Inc_Pulse_Elbow" Content="E+"  Background="Pink" Foreground="Green" FontWeight="Bold" HorizontalAlignment="Left" Height="50" Margin="216,25,0,0" VerticalAlignment="Top" Width="50" Grid.Column="2" Grid.ColumnSpan="2" Grid.RowSpan="2" PreviewMouseDown="Pb_Inc_Pulse_Elbow_PreviewMouseDown" PreviewMouseUp="Pb_Inc_Pulse_Elbow_PreviewMouseUp"/>
+        <TextBox x:Name="txt_pulse_shoulder" HorizontalAlignment="Left" Height="29" Margin="32,142,0,0" Grid.Row="1" TextWrapping="Wrap" VerticalAlignment="Top" Width="104" Grid.Column="2"/>
+        <Button x:Name="Pb_Dec_Pulse_Pitch"  Background="Green" Foreground="Yellow" FontWeight="Bold" Content="P-" HorizontalAlignment="Left" Height="50" Margin="11,24,0,0" VerticalAlignment="Top" Width="50" Grid.Column="5" Grid.RowSpan="2" PreviewMouseDown="Pb_Dec_Pulse_Pitch_PreviewMouseDown" PreviewMouseUp="Pb_Dec_Pulse_Pitch_PreviewMouseUp"/>
+        <Button x:Name="Pb_Inc_Pulse_Pitch" Content="P+" Background="Green" Foreground="Yellow" FontWeight="Bold" HorizontalAlignment="Left" Height="50" Margin="64,24,0,0" VerticalAlignment="Top" Width="50" Grid.Column="5" Grid.RowSpan="2" PreviewMouseDown="Pb_Inc_Pulse_Pitch_PreviewMouseDown" PreviewMouseUp="Pb_Inc_Pulse_Pitch_PreviewMouseUp"/>
+        <TextBox x:Name="txt_Pulse_Elbow" HorizontalAlignment="Left" Height="29" Margin="161,53,0,0" Grid.Row="1" TextWrapping="Wrap" VerticalAlignment="Top" Width="104" Grid.Column="2" Grid.ColumnSpan="2"/>
+        <TextBox x:Name="txt_pulse_pitch" HorizontalAlignment="Left" Height="29" Margin="11,53,0,0" Grid.Row="1" TextWrapping="Wrap" VerticalAlignment="Top" Width="103" Grid.Column="5"/>
+        <Button x:Name="Pb_Dec_Pulse_Roll" Background="Red" Foreground="Yellow" FontWeight="Bold" Content="R-" HorizontalAlignment="Left" Height="50" Margin="9,87,0,0" Grid.Row="1" VerticalAlignment="Top" Width="50" Grid.Column="5" PreviewMouseDown="Pb_Dec_Pulse_Roll_PreviewMouseDown" PreviewMouseUp="Pb_Dec_Pulse_Roll_PreviewMouseUp"/>
+        <Button x:Name="Pb_Inc_Pulse_Roll" Background="Red" Foreground="Yellow" FontWeight="Bold" Content="R+" HorizontalAlignment="Left" Height="50" Margin="62,87,0,0" Grid.Row="1" VerticalAlignment="Top" Width="50" Grid.Column="5" PreviewMouseDown="Pb_Inc_Pulse_Roll_PreviewMouseDown" PreviewMouseUp="Pb_Inc_Pulse_Roll_PreviewMouseUp"/>
+        <TextBox x:Name="txt_pulse_roll" HorizontalAlignment="Left" Height="29" Margin="10,142,0,0" Grid.Row="1" TextWrapping="Wrap" VerticalAlignment="Top" Width="104" Grid.Column="5"/>
+        <Button x:Name="Pb_Dec_Pulse_Gripper" Background="BlanchedAlmond" Foreground="Yellow" FontWeight="Bold" Content="G-" Height="50" Margin="162,87,41,0" Grid.Row="1" VerticalAlignment="Top" Width="Auto" Grid.Column="2" PreviewMouseDown="Pb_Dec_Pulse_Gripper_PreviewMouseDown" PreviewMouseUp="Pb_Dec_Pulse_Gripper_PreviewMouseUp"/>
+        <Button x:Name="Pb_Inc_Pulse_Gripper" Background="BlanchedAlmond" Foreground="Yellow" FontWeight="Bold" Content="G+" HorizontalAlignment="Left" Height="50" Margin="215,87,0,0" Grid.Row="1" VerticalAlignment="Top" Width="50" Grid.ColumnSpan="2" Grid.Column="2" PreviewMouseDown="Pb_Inc_Pulse_Gripper_PreviewMouseDown" PreviewMouseUp="Pb_Inc_Pulse_Gripper_PreviewMouseUp"/>
+        <TextBox x:Name="txt_pulse_gripper" HorizontalAlignment="Left" Height="29" Margin="161,142,0,0" Grid.Row="1" TextWrapping="Wrap" VerticalAlignment="Top" Width="104" Grid.ColumnSpan="2" Grid.Column="2"/>
+        <DataGrid x:Name="DataTeach" Grid.Column="1" Background="Azure" HorizontalAlignment="Left" Height="281" Margin="12,21,0,0" Grid.Row="3" Grid.RowSpan="4" VerticalAlignment="Top" Width="389" Grid.ColumnSpan="2" AutoGenerateColumns="False" ItemsSource="{Binding}" >
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Num"   Binding="{Binding Number}" Foreground="Red" FontWeight="Bold"/>
+                <DataGridTextColumn Header="Base"  Binding="{Binding gtBase}" Foreground="Blue" FontWeight="Bold"/>
+                <DataGridTextColumn Header="Shoulder" Binding="{Binding gtShoulder}" Foreground="Green" FontWeight="Bold" />
+                <DataGridTextColumn Header="Elbow" Binding="{Binding gtElbow}" Foreground="Red" FontWeight="Bold"/>
+                <DataGridTextColumn Header="Pitch" Binding="{Binding gtPitch}" Foreground="Blue" FontWeight="Bold"/>
+                <DataGridTextColumn Header="Roll" Binding="{Binding gtRoll}" Foreground="Green" FontWeight="Bold"/>
+                <DataGridTextColumn Header="Gripper" Binding="{Binding gtGripper}" Foreground="Red" FontWeight="Bold"/>
+            </DataGrid.Columns>
+            <DataGrid.RowDetailsTemplate>
+                <DataTemplate>
+                    <TextBlock Text="{Binding Details}" Margin="10" />
+                </DataTemplate>
+            </DataGrid.RowDetailsTemplate>
+        </DataGrid>
+
+        <Button x:Name="Savebutton" HorizontalAlignment="Left" Height="60" Margin="99,188,0,0" Grid.Row="1" VerticalAlignment="Top" Width="60" Grid.Column="2" Click="Savebutton_Click">
+            <Button.Content>
+                <Image Source="Image_file\Save-icon.png" Height="60" Width="60"></Image>
+            </Button.Content>
+        </Button>
+        <CheckBox Content="Control Mouse" x:Name="controlMouse" Checked="controlMouse_Checked" Grid.Column="2" HorizontalAlignment="Left" Margin="246,217,0,0" Grid.Row="1" VerticalAlignment="Top" Grid.ColumnSpan="4" Width="162"/>
+        <CheckBox Content="Seat Mode" x:Name="seatedMode" Checked="seatedMode_Checked_1" Unchecked="seatedMode_Unchecked_1"  Grid.Column="2" HorizontalAlignment="Left" Margin="246,190,0,0" Grid.Row="1" VerticalAlignment="Top" Grid.ColumnSpan="4" Width="146" RenderTransformOrigin="0.104,0.593"/>
+        <Label Background="#FFFD00F2" Content="TEACH SCORBOT&#xD;&#xA;            TABLE" Grid.Column="1" HorizontalAlignment="Left" Height="52" Margin="239,298,0,0" Grid.Row="1" VerticalAlignment="Top" Width="162" Foreground="#FF46FF00" Grid.ColumnSpan="2" Grid.RowSpan="3" FontFamily="VnCooper" FontSize="13" FontStretch="Condensed"/>
+        <Button x:Name="Clearbutton" HorizontalAlignment="Left" Height="60" Margin="164,188,0,0" Grid.Row="1" VerticalAlignment="Top" Width="60" Grid.Column="2" Click="Clearbutton_Click">
+            <Image Source="Image_file/clear.jpg" Height="60" Width="60"/>
+        </Button>
+        <Slider x:Name="Slider_speed" Background="Lime" Grid.Column="2" HorizontalAlignment="Left" Margin="157,263,0,0" Grid.Row="1" VerticalAlignment="Top" Maximum="25" Grid.ColumnSpan="4" Width="262" SmallChange="1" Value="0" ValueChanged="Slider_ValueChange" Height="26" />
+        <Label Content="SPEED" Background="Aquamarine" Grid.Column="2" HorizontalAlignment="Left" Margin="103,263,0,0" Grid.Row="1" VerticalAlignment="Top" RenderTransformOrigin="0.628,1.147" Height="26"/>
+
+
+
+
+    </Grid>
+
+</Window>

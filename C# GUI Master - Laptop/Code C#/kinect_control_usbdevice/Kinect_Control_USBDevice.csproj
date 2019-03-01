@@ -1,0 +1,248 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{4CD1FA6D-43FC-4A7C-B74B-96E724359625}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Kinect_Control_USBDevice</RootNamespace>
+    <AssemblyName>Kinect_Control_USBDevice</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <ProjectTypeGuids>{60dc8134-eba5-43b8-bcc9-bb4bc16c2548};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Interop.Microsoft.Office.Core">
+      <HintPath>..\Interop.Microsoft.Office.Core.dll</HintPath>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="Kinect.Toolbox">
+      <HintPath>..\Kinect.Toolbox.dll</HintPath>
+    </Reference>
+    <Reference Include="Kinect.Toolbox.Voice">
+      <HintPath>..\..\..\Lib\Kinect.Toolbox.Voice.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Kinect, Version=1.8.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\Program Files\Microsoft SDKs\Kinect\v1.8\Assemblies\Microsoft.Kinect.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Office.Interop.Excel, Version=14.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+      <HintPath>..\Microsoft.Office.Interop.Excel.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Xna.Framework, Version=4.0.0.0, Culture=neutral, PublicKeyToken=842cf8be1de50553, processorArchitecture=x86">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Microsoft.Xna.Framework.dll</HintPath>
+    </Reference>
+    <Reference Include="SharpDX">
+      <HintPath>..\SharpDX.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="system.windows.forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Xaml">
+      <RequiredTargetFramework>4.0</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="usbGenericHidCommunications, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\usbGenericHidCommunications\bin\Debug\usbGenericHidCommunications.dll</HintPath>
+    </Reference>
+    <Reference Include="WindowsBase" />
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+    <Reference Include="ZedGraph">
+      <HintPath>E:\DOCUMENT AT HCMUT\C SHARP\zedgraph_dll_v515\zedgraph_dll_v515\zedgraph_dll_v5.1.5\ZedGraph.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <ApplicationDefinition Include="App.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+    <Compile Include="ColorStreamManager.cs" />
+    <Compile Include="ContextPoint.cs" />
+    <Compile Include="CreateExcelDoc.cs" />
+    <Compile Include="Datagrid.xaml.cs">
+      <DependentUpon>Datagrid.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="DepthStreamManager.cs" />
+    <Compile Include="frAbout.xaml.cs">
+      <DependentUpon>frAbout.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Gcodeprocess.cs" />
+    <Compile Include="Graph.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Graph.Designer.cs">
+      <DependentUpon>Graph.cs</DependentUpon>
+    </Compile>
+    <Compile Include="IStreamManager.cs" />
+    <Compile Include="MainWindow.Gesture.cs" />
+    <Compile Include="MainWindow.Postures.cs" />
+    <Compile Include="MainWindow.Voice.cs" />
+    <Compile Include="Notifier.cs" />
+    <Compile Include="SkeletonAnalyzer.cs" />
+    <Compile Include="SkeletonDisplayManager.cs" />
+    <Compile Include="STA_INIFile.cs" />
+    <Compile Include="Tools.cs" />
+    <Compile Include="usbDevice.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Vector2.cs" />
+    <Page Include="Datagrid.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="frAbout.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="MainWindow.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Compile Include="App.xaml.cs">
+      <DependentUpon>App.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="MainWindow.xaml.cs">
+      <DependentUpon>MainWindow.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Properties\AssemblyInfo.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <EmbeddedResource Include="Graph.resx">
+      <DependentUpon>Graph.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <AppDesigner Include="Properties\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="hand_Icon.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="Microsoft.Office.Core">
+      <Guid>{2DF8D04C-5BFA-101B-BDE5-00AA0044DE52}</Guid>
+      <VersionMajor>2</VersionMajor>
+      <VersionMinor>7</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="VBIDE">
+      <Guid>{0002E157-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>5</VersionMajor>
+      <VersionMinor>3</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Image_file\codinate_icon.png" />
+    <Resource Include="Image_file\debug.png" />
+    <Resource Include="Image_file\Edit_icon.jpg" />
+    <Resource Include="Image_file\Emegency_stop.jpg" />
+    <Resource Include="Image_file\excel-icon %281%29.png" />
+    <Resource Include="Image_file\excel-icon.png" />
+    <Resource Include="Image_file\Forward_icon.png" />
+    <Resource Include="Image_file\Forward_icon.png.jpg" />
+    <Resource Include="Image_file\hand_Icon.jpg" />
+    <Resource Include="Image_file\Hand_icon.png" />
+    <Resource Include="Image_file\HOME1.png" />
+    <Resource Include="Image_file\Home_Icon.jpg" />
+    <Resource Include="Image_file\logobk 8x8.png" />
+    <Resource Include="Image_file\Open-icon.png" />
+    <Resource Include="Image_file\Pause_icon.jpg" />
+    <Resource Include="Image_file\Quit_Icon.jpg" />
+    <Resource Include="Image_file\Reload_icon.jpg" />
+    <Resource Include="Image_file\Revert.jpg" />
+    <Resource Include="Image_file\Save-icon.png" />
+    <Resource Include="Image_file\Start_icon.jpg" />
+    <Resource Include="Image_file\start_icon2.jpg" />
+    <Resource Include="Image_file\Stop_Icon.jpg" />
+    <Resource Include="Image_file\toa_do.jpg" />
+    <Resource Include="Image_file\Waiting.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Image_file\speed.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Image_file\quayphai.png" />
+    <Resource Include="Image_file\xoay_trai.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="setting.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Image_file\setting.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Image_file\clear.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Image_file\draw.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

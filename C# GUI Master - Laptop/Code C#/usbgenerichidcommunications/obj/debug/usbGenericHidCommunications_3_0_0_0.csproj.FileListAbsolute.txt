@@ -1,0 +1,42 @@
+E:\Codes Thesis\Final Code\USB Generic HID reference application 3_0_0_0\usbGenericHidCommunications\bin\Debug\usbGenericHidCommunications.dll
+E:\Codes Thesis\Final Code\USB Generic HID reference application 3_0_0_0\usbGenericHidCommunications\bin\Debug\usbGenericHidCommunications.pdb
+E:\Codes Thesis\Final Code\USB Generic HID reference application 3_0_0_0\usbGenericHidCommunications\obj\Debug\usbGenericHidCommunications.dll
+E:\Codes Thesis\Final Code\USB Generic HID reference application 3_0_0_0\usbGenericHidCommunications\obj\Debug\usbGenericHidCommunications.pdb
+E:\Codes Thesis\Final Code\Kinect_Control_Robot\Kinect_Control_USBDevice\usbGenericHidCommunications\bin\Debug\usbGenericHidCommunications.dll
+E:\Codes Thesis\Final Code\Kinect_Control_Robot\Kinect_Control_USBDevice\usbGenericHidCommunications\bin\Debug\usbGenericHidCommunications.pdb
+E:\Codes Thesis\Final Code\Kinect_Control_Robot\Kinect_Control_USBDevice\usbGenericHidCommunications\obj\Debug\usbGenericHidCommunications.dll
+E:\Codes Thesis\Final Code\Kinect_Control_Robot\Kinect_Control_USBDevice\usbGenericHidCommunications\obj\Debug\usbGenericHidCommunications.pdb
+E:\Codes Thesis\Final Code\25-11\29-11\kinect_control_usbdevice\usbGenericHidCommunications\bin\Debug\usbGenericHidCommunications.dll
+E:\Codes Thesis\Final Code\25-11\29-11\kinect_control_usbdevice\usbGenericHidCommunications\bin\Debug\usbGenericHidCommunications.pdb
+E:\Codes Thesis\Final Code\25-11\29-11\kinect_control_usbdevice\usbGenericHidCommunications\obj\Debug\usbGenericHidCommunications_3_0_0_0.csprojResolveAssemblyReference.cache
+E:\Codes Thesis\Final Code\25-11\29-11\kinect_control_usbdevice\usbGenericHidCommunications\obj\Debug\usbGenericHidCommunications.dll
+E:\Codes Thesis\Final Code\25-11\29-11\kinect_control_usbdevice\usbGenericHidCommunications\obj\Debug\usbGenericHidCommunications.pdb
+E:\DOCUMENT AT HCMUT\NGHIEN CUU KHOA HOC\BACKUP\kinect_control_usbdevice8_12\kinect_control_usbdevice\usbGenericHidCommunications\bin\Debug\usbGenericHidCommunications.dll
+E:\DOCUMENT AT HCMUT\NGHIEN CUU KHOA HOC\BACKUP\kinect_control_usbdevice8_12\kinect_control_usbdevice\usbGenericHidCommunications\bin\Debug\usbGenericHidCommunications.pdb
+E:\DOCUMENT AT HCMUT\NGHIEN CUU KHOA HOC\BACKUP\kinect_control_usbdevice8_12\kinect_control_usbdevice\usbGenericHidCommunications\obj\Debug\usbGenericHidCommunications_3_0_0_0.csprojResolveAssemblyReference.cache
+E:\DOCUMENT AT HCMUT\NGHIEN CUU KHOA HOC\BACKUP\kinect_control_usbdevice8_12\kinect_control_usbdevice\usbGenericHidCommunications\obj\Debug\usbGenericHidCommunications.dll
+E:\DOCUMENT AT HCMUT\NGHIEN CUU KHOA HOC\BACKUP\kinect_control_usbdevice8_12\kinect_control_usbdevice\usbGenericHidCommunications\obj\Debug\usbGenericHidCommunications.pdb
+E:\Codes Thesis\Final Code\12-12\kinect_control_usbdevice\usbGenericHidCommunications\bin\Debug\usbGenericHidCommunications.dll
+E:\Codes Thesis\Final Code\12-12\kinect_control_usbdevice\usbGenericHidCommunications\bin\Debug\usbGenericHidCommunications.pdb
+E:\Codes Thesis\Final Code\12-12\kinect_control_usbdevice\usbGenericHidCommunications\obj\Debug\usbGenericHidCommunications_3_0_0_0.csprojResolveAssemblyReference.cache
+E:\Codes Thesis\Final Code\12-12\kinect_control_usbdevice\usbGenericHidCommunications\obj\Debug\usbGenericHidCommunications.dll
+E:\Codes Thesis\Final Code\12-12\kinect_control_usbdevice\usbGenericHidCommunications\obj\Debug\usbGenericHidCommunications.pdb
+C:\Users\PINK_RAIN\Dropbox\UPDATE THESIS\12-12kinect\12-12\kinect_control_usbdevice\usbGenericHidCommunications\bin\Debug\usbGenericHidCommunications.dll
+C:\Users\PINK_RAIN\Dropbox\UPDATE THESIS\12-12kinect\12-12\kinect_control_usbdevice\usbGenericHidCommunications\bin\Debug\usbGenericHidCommunications.pdb
+C:\Users\PINK_RAIN\Dropbox\UPDATE THESIS\12-12kinect\12-12\kinect_control_usbdevice\usbGenericHidCommunications\obj\Debug\usbGenericHidCommunications_3_0_0_0.csprojResolveAssemblyReference.cache
+C:\Users\PINK_RAIN\Dropbox\UPDATE THESIS\12-12kinect\12-12\kinect_control_usbdevice\usbGenericHidCommunications\obj\Debug\usbGenericHidCommunications.dll
+C:\Users\PINK_RAIN\Dropbox\UPDATE THESIS\12-12kinect\12-12\kinect_control_usbdevice\usbGenericHidCommunications\obj\Debug\usbGenericHidCommunications.pdb
+E:\Codes Thesis\Final Code\16-12\kinect_control_usbdevice\usbGenericHidCommunications\bin\Debug\usbGenericHidCommunications.dll
+E:\Codes Thesis\Final Code\16-12\kinect_control_usbdevice\usbGenericHidCommunications\bin\Debug\usbGenericHidCommunications.pdb
+E:\Codes Thesis\Final Code\16-12\kinect_control_usbdevice\usbGenericHidCommunications\obj\Debug\usbGenericHidCommunications_3_0_0_0.csprojResolveAssemblyReference.cache
+E:\Codes Thesis\Final Code\16-12\kinect_control_usbdevice\usbGenericHidCommunications\obj\Debug\usbGenericHidCommunications.dll
+E:\Codes Thesis\Final Code\16-12\kinect_control_usbdevice\usbGenericHidCommunications\obj\Debug\usbGenericHidCommunications.pdb
+C:\Users\PINK_RAIN\Dropbox\UPDATE THESIS\17122014\kinect_control_usbdevice\usbGenericHidCommunications\bin\Debug\usbGenericHidCommunications.dll
+C:\Users\PINK_RAIN\Dropbox\UPDATE THESIS\17122014\kinect_control_usbdevice\usbGenericHidCommunications\bin\Debug\usbGenericHidCommunications.pdb
+C:\Users\PINK_RAIN\Dropbox\UPDATE THESIS\17122014\kinect_control_usbdevice\usbGenericHidCommunications\obj\Debug\usbGenericHidCommunications_3_0_0_0.csprojResolveAssemblyReference.cache
+C:\Users\PINK_RAIN\Dropbox\UPDATE THESIS\17122014\kinect_control_usbdevice\usbGenericHidCommunications\obj\Debug\usbGenericHidCommunications.dll
+C:\Users\PINK_RAIN\Dropbox\UPDATE THESIS\17122014\kinect_control_usbdevice\usbGenericHidCommunications\obj\Debug\usbGenericHidCommunications.pdb
+E:\Codes Thesis\Final Code\18-12\usbGenericHidCommunications\bin\Debug\usbGenericHidCommunications.dll
+E:\Codes Thesis\Final Code\18-12\usbGenericHidCommunications\bin\Debug\usbGenericHidCommunications.pdb
+E:\Codes Thesis\Final Code\18-12\usbGenericHidCommunications\obj\Debug\usbGenericHidCommunications.dll
+E:\Codes Thesis\Final Code\18-12\usbGenericHidCommunications\obj\Debug\usbGenericHidCommunications.pdb
